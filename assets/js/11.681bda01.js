@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{597:function(t,n,e){"use strict";e.r(n);var s={name:"Ejemplo",data:function(){return{texto:"Mundo Vuepress"}}},i=e(15),o=Object(i.a)(s,(function(){var t=this.$createElement,n=this._self._c||t;return n("div",[n("p",[this._v("Hola")]),this._v("\n  "+this._s(this.texto)+"\n")])}),[],!1,null,null,null);n.default=o.exports}}]);
