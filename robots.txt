@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /samples/
+Disallow: /404.html
+
+Sitemap: https://joseluisgs.dev/sitemap.xml
+
+
+User-agent:*
+Disallow:
