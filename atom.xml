@@ -3,7 +3,7 @@
   <id>https://joseluisgs.dev/</id>
   <title>José Luis González</title>
   <subtitle>Web personal de José Luis González Sánchez - Profesor en DAW, DAM y formador certificado</subtitle>
-  <updated>2026-04-23T14:56:39.292Z</updated>
+  <updated>2026-04-24T11:34:56.493Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://joseluisgs.dev/atom.xml"/>
   <link rel="alternate" href="https://joseluisgs.dev/"/>
@@ -19,7 +19,7 @@
     <title type="text">Mobile-First esa asignatura aún pendiente en la UX</title>
     <id>https://joseluisgs.dev/posts/2026/2026-04-23-ux-diseno-mobile-first-backend.html</id>
     <link href="https://joseluisgs.dev/posts/2026/2026-04-23-ux-diseno-mobile-first-backend.html"/>
-    <updated>2026-04-23T14:49:28.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>Quienes me seguís sabéis que mi hábitat natural no son los píxeles, sino los bits. Me siento mucho más cómodo diseñando microservicios en .NET, usando corrutinas en Kotlin o peleándome con una API reactiva que eligiendo el padding perfecto de un botón. Soy, por definición, un &quot;tío de Backend&quot;. Pero como especialista en IPO, sé perfectamente que tu UX puede fracasar estrepitosamente por tu falta de atención al detalle, y en esta entrada te explicaré por qué el <strong>Mobile-First</strong> sigue siendo la gran asignatura pendiente de la industria, a pesar de que llevamos años hablando de ello.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>Quienes me seguís sabéis que mi hábitat natural no son los píxeles, sino los bits. Me siento mucho más cómodo diseñando microservicios en .NET, usando corrutinas en Kotlin o peleándome con una API reactiva que eligiendo el padding perfecto de un botón. Soy, por definición, un &quot;tío de Backend&quot;. Pero como especialista en IPO, sé perfectamente que tu UX puede fracasar estrepitosamente por tu falta de atención al detalle, y en esta entrada te explicaré por qué el <strong>Mobile-First</strong> sigue siendo la gran asignatura pendiente de la industria, a pesar de que llevamos años hablando de ello.</p>
@@ -59,7 +59,7 @@
     <title type="text">Nueva version de mi web</title>
     <id>https://joseluisgs.dev/posts/2026/2026-04-20-nueva_version_web.html</id>
     <link href="https://joseluisgs.dev/posts/2026/2026-04-20-nueva_version_web.html"/>
-    <updated>2026-04-21T14:19:26.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>A lo largo de los años, mi sitio web ha sido un espacio de aprendizaje, experimentación y compartición de conocimientos. Sin embargo, con el paso del tiempo, la tecnología que sustentaba mi web se volvió obsoleta, lo que me llevó a tomar la decisión de realizar una migración completa a una nueva versión. Esta nueva versión no solo representa una actualización tecnológica, sino también una renovación visual y funcional que busca ofrecer una mejor experiencia a los visitantes y a mis alumnos de Formación Profesional les servirá como un recurso educativo de cómo construir una web moderna usando distintas tecnologías de desarrollo y despliegue.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>A lo largo de los años, mi sitio web ha sido un espacio de aprendizaje, experimentación y compartición de conocimientos. Sin embargo, con el paso del tiempo, la tecnología que sustentaba mi web se volvió obsoleta, lo que me llevó a tomar la decisión de realizar una migración completa a una nueva versión. Esta nueva versión no solo representa una actualización tecnológica, sino también una renovación visual y funcional que busca ofrecer una mejor experiencia a los visitantes y a mis alumnos de Formación Profesional les servirá como un recurso educativo de cómo construir una web moderna usando distintas tecnologías de desarrollo y despliegue.</p>
@@ -132,7 +132,7 @@
     <title type="text">Soy embajador de GitKraken</title>
     <id>https://joseluisgs.dev/posts/2021/2021-05-26-gitkraken-embajador.html</id>
     <link href="https://joseluisgs.dev/posts/2021/2021-05-26-gitkraken-embajador.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>Como ya habréis visto en mi <em>banner</em> y redes sociales, aparece un nuevo icono conmigo. Es un orgullo, placer y responsabilidad comunicar que he sido nombrado este mes de mayo embajador de <a href="https://www.gitkraken.com/invite/wdJ7HntT" target="_blank" rel="noopener noreferrer">GitKraken</a>. Para mí es una alegría inmensa que confíen para esta labor y así reconozcan el trabajo que se ha realizado estos dos últimos años aplicando <em>GitKraken Suite</em> en la enseñanza del desarrollo de <em>software</em>.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>Como ya habréis visto en mi <em>banner</em> y redes sociales, aparece un nuevo icono conmigo. Es un orgullo, placer y responsabilidad comunicar que he sido nombrado este mes de mayo embajador de <a href="https://www.gitkraken.com/invite/wdJ7HntT" target="_blank" rel="noopener noreferrer">GitKraken</a>. Para mí es una alegría inmensa que confíen para esta labor y así reconozcan el trabajo que se ha realizado estos dos últimos años aplicando <em>GitKraken Suite</em> en la enseñanza del desarrollo de <em>software</em>.</p>
@@ -162,7 +162,7 @@
     <title type="text">Mejorando en Kotlin como profesor gracias a una decepción</title>
     <id>https://joseluisgs.dev/posts/2022/2022-06-25-decepciones-superaciones.html</id>
     <link href="https://joseluisgs.dev/posts/2022/2022-06-25-decepciones-superaciones.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>A veces las decepciones te hacen crecer. Este año me ha pasado con Kotlin. Una decepción me ha llevado a profundizar más en el lenguaje y convertirme en mejor profesor.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>A veces las decepciones te hacen crecer. Este año me ha pasado con Kotlin. Una decepción me ha llevado a profundizar más en el lenguaje y convertirme en mejor profesor.</p>
@@ -183,7 +183,7 @@
     <title type="text">Kotlin Expert</title>
     <id>https://joseluisgs.dev/posts/2022/2022-06-27-kotlin-expert.html</id>
     <link href="https://joseluisgs.dev/posts/2022/2022-06-27-kotlin-expert.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>Hoy te vengo a presentar una formación que seguro que te gustará: <em>Kotlin Expert</em>. A mí me ha encantado la idea y me está encantando el curso. Sí, lo estoy cursando. No suelo hacer recomendaciones vacías, sino basadas en mi propia experiencia.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>Hoy te vengo a presentar una formación que seguro que te gustará: <em>Kotlin Expert</em>. A mí me ha encantado la idea y me está encantando el curso. Sí, lo estoy cursando. No suelo hacer recomendaciones vacías, sino basadas en mi propia experiencia.</p>
@@ -218,7 +218,7 @@
     <title type="text">Vacaciones para el alumnado. Reflexiones, despedidas y hasta luego</title>
     <id>https://joseluisgs.dev/posts/2022/2022-07-11-alumnado-verano.html</id>
     <link href="https://joseluisgs.dev/posts/2022/2022-07-11-alumnado-verano.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>Se acaba el curso y llega el momento de las despedidas. Ha sido un año intenso con mucho trabajo, pero también con muchas satisfacciones. El alumnado ha crecido tanto académica como personalmente.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>Se acaba el curso y llega el momento de las despedidas. Ha sido un año intenso con mucho trabajo, pero también con muchas satisfacciones. El alumnado ha crecido tanto académica como personalmente.</p>
@@ -239,7 +239,7 @@
     <title type="text">Nuevo curso, nuevos retos</title>
     <id>https://joseluisgs.dev/posts/2022/2022-11-02-nuevo-curso-nuevos-retos.html</id>
     <link href="https://joseluisgs.dev/posts/2022/2022-11-02-nuevo-curso-nuevos-retos.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>Nuevo curso, nuevos retos. Y es que un año más toca empezar con ilusión y ganas de mejorar. Este curso vamos a intentar consolidar lo aprendido el año anterior y añadir nuevas tecnologías y metodologías.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>Nuevo curso, nuevos retos. Y es que un año más toca empezar con ilusión y ganas de mejorar. Este curso vamos a intentar consolidar lo aprendido el año anterior y añadir nuevas tecnologías y metodologías.</p>
@@ -260,7 +260,7 @@
     <title type="text">Me encantan las Corrutinas</title>
     <id>https://joseluisgs.dev/posts/2022/2022-11-29-me-gusta-corrutinas.html</id>
     <link href="https://joseluisgs.dev/posts/2022/2022-11-29-me-gusta-corrutinas.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>Si hay algo de lo que he disfrutado desde hace mucho tiempo es del uso de las Corrutinas en Kotlin. Este año he decidido explotar su uso en el <em>backend</em> y no puedo estar más satisfecho: rapidez, sencillez y nuevas filosofías de programación fácilmente aplicables sin recurrir a otros recursos.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>Si hay algo de lo que he disfrutado desde hace mucho tiempo es del uso de las Corrutinas en Kotlin. Este año he decidido explotar su uso en el <em>backend</em> y no puedo estar más satisfecho: rapidez, sencillez y nuevas filosofías de programación fácilmente aplicables sin recurrir a otros recursos.</p>
@@ -310,7 +310,7 @@
     <title type="text">El día que diga basta</title>
     <id>https://joseluisgs.dev/posts/2022/2022-11-30-dia-diga-basta.html</id>
     <link href="https://joseluisgs.dev/posts/2022/2022-11-30-dia-diga-basta.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>Este curso está siendo un poco atípico por muchas circunstancias. A veces es bueno reflexionar qué está pasando con el sistema donde te mueves y realizas tu labor diaria y saber qué puedes cambiar y qué no.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>Este curso está siendo un poco atípico por muchas circunstancias. A veces es bueno reflexionar qué está pasando con el sistema donde te mueves y realizas tu labor diaria y saber qué puedes cambiar y qué no.</p>
@@ -332,7 +332,7 @@
     <title type="text">Ya no sé programar si no es reactivo</title>
     <id>https://joseluisgs.dev/posts/2022/2022-12-06-ya-no-se-programar-sin-reactividad.html</id>
     <link href="https://joseluisgs.dev/posts/2022/2022-12-06-ya-no-se-programar-sin-reactividad.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>La frase no es mía, es del gran Antonio Leiva 👈, en una de las charlas que tenemos a menudo. Pero me ha dado pie a escribir esta entrada, que no es más que una reflexión sobre la programación reactiva y su uso en determinadas aplicaciones y cómo llevarla al terreno de la docencia para explicar sus beneficios al alumnado. ¡Ya somos dos, mi admirado DevExperto! 💪</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>La frase no es mía, es del gran Antonio Leiva 👈, en una de las charlas que tenemos a menudo. Pero me ha dado pie a escribir esta entrada, que no es más que una reflexión sobre la programación reactiva y su uso en determinadas aplicaciones y cómo llevarla al terreno de la docencia para explicar sus beneficios al alumnado. ¡Ya somos dos, mi admirado DevExperto! 💪</p>
@@ -458,7 +458,7 @@
     <title type="text">Al alumno que copió en su proyecto</title>
     <id>https://joseluisgs.dev/posts/2022/2022-12-30-al-alumno-que-cpio-en-su-proyecto.html</id>
     <link href="https://joseluisgs.dev/posts/2022/2022-12-30-al-alumno-que-cpio-en-su-proyecto.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>Sé que copiaste. Lo sé porque el código es demasiado bueno para ser verdad. Y lo más triste es que te has perdido la oportunidad de aprender de verdad.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>Sé que copiaste. Lo sé porque el código es demasiado bueno para ser verdad. Y lo más triste es que te has perdido la oportunidad de aprender de verdad.</p>
@@ -479,7 +479,7 @@
     <title type="text">Crea tu API REST reactiva con Kotlin y Ktor Parte II</title>
     <id>https://joseluisgs.dev/posts/2023/2023-06-19-reactive-api-rest-pt-ii.html</id>
     <link href="https://joseluisgs.dev/posts/2023/2023-06-19-reactive-api-rest-pt-ii.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>Continuamos con nuestro tutorial de cómo crear una API REST reactiva y cómo asentar las bases de este paradigma en el desarrollo de servicios como ya vimos en la primera parte. Te recuerdo que esta serie de artículos forman parte de mis actividades con Hyperskill de JetBrains Academy.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>Continuamos con nuestro tutorial de cómo crear una API REST reactiva y cómo asentar las bases de este paradigma en el desarrollo de servicios como ya vimos en la primera parte. Te recuerdo que esta serie de artículos forman parte de mis actividades con Hyperskill de JetBrains Academy.</p>
@@ -528,7 +528,7 @@
     <title type="text">Crea tu API REST reactiva con Kotlin y Ktor Parte III</title>
     <id>https://joseluisgs.dev/posts/2023/2023-07-10-reactive-api-rest-pt-iii.html</id>
     <link href="https://joseluisgs.dev/posts/2023/2023-07-10-reactive-api-rest-pt-iii.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>Continuamos y finalizamos nuestro tutorial con esta tercera parte de cómo crear una API REST reactiva, siguiendo lo aprendido en la primera parte y en la segunda parte.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>Continuamos y finalizamos nuestro tutorial con esta tercera parte de cómo crear una API REST reactiva, siguiendo lo aprendido en la primera parte y en la segunda parte.</p>
@@ -566,7 +566,7 @@
     <title type="text">Visita de Antonio Leiva y DevExpert.io al IES Luis Vives</title>
     <id>https://joseluisgs.dev/posts/2024/2024-01-03-vista-devexpert-luisvives.html</id>
     <link href="https://joseluisgs.dev/posts/2024/2024-01-03-vista-devexpert-luisvives.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>El martes 7 de noviembre de 2023, Antonio Leiva, CEO de <a href="https://devexpert.io/" target="_blank" rel="noopener noreferrer">DevExpert.io</a>, visitó el IES Luis Vives para impartir una charla dirigida al alumnado de la familia de informática. Durante el evento, Leiva compartió nuevas tendencias y buenas prácticas en el desarrollo de <em>software</em> basado en arquitecturas de calidad ante un salón de actos completo de asistentes. Respondió a las preguntas de los estudiantes y brindó consejos para enfocar su aprendizaje y futura carrera profesional.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>El martes 7 de noviembre de 2023, Antonio Leiva, CEO de <a href="https://devexpert.io/" target="_blank" rel="noopener noreferrer">DevExpert.io</a>, visitó el IES Luis Vives para impartir una charla dirigida al alumnado de la familia de informática. Durante el evento, Leiva compartió nuevas tendencias y buenas prácticas en el desarrollo de <em>software</em> basado en arquitecturas de calidad ante un salón de actos completo de asistentes. Respondió a las preguntas de los estudiantes y brindó consejos para enfocar su aprendizaje y futura carrera profesional.</p>
@@ -663,7 +663,7 @@
     <title type="text">Regreso a .NET en DAW. 20 razones para el cambio</title>
     <id>https://joseluisgs.dev/posts/2025/2025-12-31-csharpnet_docencia_daw.html</id>
     <link href="https://joseluisgs.dev/posts/2025/2025-12-31-csharpnet_docencia_daw.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>En noviembre de 2021, escribí un artículo que muchos de vosotros recordáis: <strong><a href="https://joseluisgs.dev/blogs/2021/2021-11-28-kotlin-en-mi-equipo.html" target="_blank" rel="noopener noreferrer">«Kotlin siempre en mi equipo»</a></strong>. En aquel entonces, defendía a Kotlin como la herramienta pedagógica definitiva (y lo sigue siendo). Sigo pensando que su diseño es magistral para su uso en la docencia, pero los tiempos han cambiado. La <strong>Nueva Ley de FP</strong>, la presión por enviar alumnos a la empresa en primero (quien pueda) y la realidad de un mercado <em>backend</em> en España que sigue anclado en tecnologías de «gran empresa», me han obligado a realizar este cambio, con el objetivo de adaptar la enseñanza a las necesidades de esta nueva ley y su impacto en la docencia de primero (y segundo) de DAW, donde tenemos que buscar el equilibrio entre la enseñanza de conceptos fundamentales (mi principal objetivo) y la preparación para el mercado laboral y la Fase de Formación en Empresas.</p>
 <p>Este curso, he decidido pasarme a la <strong>plataforma .NET con C#</strong>. No es una decisión tomada a la ligera. Es una respuesta crítica y meditada a los retos que tenemos como docentes en este nuevo panorama educativo y profesional.</p>
 ]]></summary>
@@ -985,7 +985,7 @@ C# permite implementar el patrón de «vía de tren». Si algo falla, el flujo s
     <title type="text">Desarrollo Web en Entorno Servidor 02 - Servicios Web con JVM y Spring Boot</title>
     <id>https://joseluisgs.dev/posts/2025/2025-10-24-dwes_ud_02_servicios_jvm_springboot.html</id>
     <link href="https://joseluisgs.dev/posts/2025/2025-10-24-dwes_ud_02_servicios_jvm_springboot.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>El <strong>Desarrollo de Servicios Web en JVM</strong> con <strong>Spring Boot</strong> es el pilar del desarrollo <em>backend</em> moderno.</p>
 <p>La <strong>Máquina Virtual de Java (JVM)</strong> es un <strong>estándar indiscutible</strong> en el desarrollo empresarial y de alto tráfico gracias a su <strong>rendimiento estable</strong>, su capacidad de <strong>escalabilidad horizontal</strong> (manejo de miles de hilos) y su robusto ecosistema de herramientas.</p>
 <p><strong>Spring Boot</strong> es el <strong>framework de referencia</strong> en este ecosistema. Ofrece una solución completa para simplificar la configuración, implementar la <strong>Inyección de Dependencias (DI)</strong> y abordar de forma modular aspectos complejos como la <strong>Seguridad</strong>, el <strong>Acceso a Datos</strong> y la <strong>Comunicación Asíncrona</strong>. Su filosofía es la <strong>&quot;convención sobre la configuración&quot;</strong>, lo que acelera dramáticamente el desarrollo.</p>
@@ -1007,7 +1007,7 @@ C# permite implementar el patrón de «vía de tren». Si algo falla, el flujo s
     <title type="text">Programación 03 - Aplicación de Estructuras de Almacenamiento Estáticas</title>
     <id>https://joseluisgs.dev/posts/2025/2025-10-20-prog_ud_03_estrecturas_estaticas.html</id>
     <link href="https://joseluisgs.dev/posts/2025/2025-10-20-prog_ud_03_estrecturas_estaticas.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>Las <strong>Estructuras de Almacenamiento Estáticas</strong> son la columna vertebral de la programación. En esta unidad, nos adentraremos en el manejo eficiente de datos mediante estructuras de tamaño fijo, centrándonos en los <strong>Arrays</strong> (vectores y matrices), la gestión avanzada de <strong>Cadenas de Texto</strong> y, finalmente, explorando los fundamentos de los <strong>Algoritmos de Ordenación y Búsqueda</strong> que nos permiten manipular y consultar estos datos.</p>
 <p>Comprender la <strong>inmutabilidad</strong> y el modelo de <strong>paso por referencia</strong> de estas estructuras en el lenguaje C# es esencial para evitar errores comunes y escribir código robusto.</p>
 ]]></summary>
@@ -1084,7 +1084,7 @@ C# permite implementar el patrón de «vía de tren». Si algo falla, el flujo s
     <title type="text">Entornos de Desarrollo 03 - Sistema de Control de Versiones con Git y GitHub</title>
     <id>https://joseluisgs.dev/posts/2025/2025-10-20-ed_ud_03_sistemas_control_versiones.html</id>
     <link href="https://joseluisgs.dev/posts/2025/2025-10-20-ed_ud_03_sistemas_control_versiones.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>En el dinámico mundo del desarrollo de software, un pilar esencial para la eficiencia, la calidad y la colaboración es el <strong>Control de Versiones</strong>. Un sistema de control de versiones registra los cambios realizados en un conjunto de archivos a lo largo del tiempo, permitiendo a los desarrolladores recuperar versiones específicas de sus proyectos, rastrear la evolución del software y coordinar el trabajo de múltiples personas en archivos compartidos.</p>
 <p>Este tema explora en profundidad cómo <strong>Git</strong> y <strong>GitHub</strong> han revolucionado la gestión de proyectos, desde los conceptos fundamentales hasta los comandos esenciales para optimizar tu flujo de trabajo.</p>
 ]]></summary>
@@ -1112,7 +1112,7 @@ C# permite implementar el patrón de «vía de tren». Si algo falla, el flujo s
     <title type="text">Despliegue de Aplicaciones Web 03 - Arquitectura Web y Fundamentos</title>
     <id>https://joseluisgs.dev/posts/2025/2025-10-20-daw_ud_03_arquitectura_web_despliegue.html</id>
     <link href="https://joseluisgs.dev/posts/2025/2025-10-20-daw_ud_03_arquitectura_web_despliegue.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>El <strong>Despliegue de Aplicaciones Web</strong> es el proceso fundamental que garantiza que una aplicación pase del código fuente a un entorno de producción accesible. Este proceso no solo se trata de subir archivos, sino de asegurar la <strong>estabilidad</strong>, <strong>seguridad</strong> y <strong>escalabilidad</strong> del sistema para los usuarios finales.</p>
 <p>En este tema, exploraremos la estructura detrás de cada acción web, desde el <strong>Modelo Cliente-Servidor</strong> hasta las arquitecturas modernas, pasando por los componentes clave como el <strong>Protocolo HTTP</strong> y las <strong>APIs</strong> que hacen posible el desarrollo web contemporáneo.</p>
 ]]></summary>
@@ -1135,7 +1135,7 @@ C# permite implementar el patrón de «vía de tren». Si algo falla, el flujo s
     <title type="text">Entornos de Desarrollo 02 - Entornos de Desarrollo (IDEs)</title>
     <id>https://joseluisgs.dev/posts/2025/2025-09-25-ed_ud_02_entornos_desarrollo.html</id>
     <link href="https://joseluisgs.dev/posts/2025/2025-09-25-ed_ud_02_entornos_desarrollo.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>El <strong>Entorno de Desarrollo Integrado (IDE)</strong> es, sin duda, la herramienta más importante en el día a día de un desarrollador. Más que un simple editor de texto, es una aplicación diseñada para <strong>facilitar la tarea de codificación</strong> y hacer que el ciclo de vida del software sea mucho más ágil y eficiente.</p>
 <p>En esta segunda unidad del módulo, exploraremos qué define un IDE, cuáles son sus componentes esenciales y te guiaremos en la instalación y configuración de las herramientas que utilizaremos en el curso: <strong>IntelliJ IDEA</strong>, <strong>JetBrains Rider</strong> y <strong>Visual Studio Code (VS Code)</strong>.</p>
 ]]></summary>
@@ -1188,7 +1188,7 @@ C# permite implementar el patrón de «vía de tren». Si algo falla, el flujo s
     <title type="text">Despliegue de Aplicaciones Web 02 - Introducción a la virtualización</title>
     <id>https://joseluisgs.dev/posts/2025/2025-09-23-daw_ud_02_introduccion_virtualizacion_docker.html</id>
     <link href="https://joseluisgs.dev/posts/2025/2025-09-23-daw_ud_02_introduccion_virtualizacion_docker.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>La segunda unidad didáctica del módulo de Despliegue de Aplicaciones Web se centra en la virtualización con contenedores, una tecnología que ha cambiado las reglas del juego en el mundo del desarrollo y despliegue de aplicaciones. El objetivo principal es solucionar la inconsistencia de entornos que a menudo lleva a la clásica frase: &quot;Pero si en mi máquina funciona&quot;.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>La segunda unidad didáctica del módulo de Despliegue de Aplicaciones Web se centra en la virtualización con contenedores, una tecnología que ha cambiado las reglas del juego en el mundo del desarrollo y despliegue de aplicaciones. El objetivo principal es solucionar la inconsistencia de entornos que a menudo lleva a la clásica frase: &quot;Pero si en mi máquina funciona&quot;.</p>
@@ -1225,7 +1225,7 @@ C# permite implementar el patrón de «vía de tren». Si algo falla, el flujo s
     <title type="text">Programación 02 - Programación Estructurada y Modular</title>
     <id>https://joseluisgs.dev/posts/2025/2025-09-23-prog_ud_02_programacion_estructurada_modular.html</id>
     <link href="https://joseluisgs.dev/posts/2025/2025-09-23-prog_ud_02_programacion_estructurada_modular.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>La segunda unidad didáctica del módulo de Programación se centra en dos paradigmas fundamentales para cualquier desarrollador: la Programación Estructurada y la Programación Modular. El dominio de estos conceptos es crucial para crear programas que sean no solo funcionales, sino también claros, fáciles de mantener y escalables.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>La segunda unidad didáctica del módulo de Programación se centra en dos paradigmas fundamentales para cualquier desarrollador: la Programación Estructurada y la Programación Modular. El dominio de estos conceptos es crucial para crear programas que sean no solo funcionales, sino también claros, fáciles de mantener y escalables.</p>
@@ -1271,7 +1271,7 @@ C# permite implementar el patrón de «vía de tren». Si algo falla, el flujo s
     <title type="text">Despliegue de Aplicaciones Web - 01 Control de Versiones y Documentación</title>
     <id>https://joseluisgs.dev/posts/2025/2025-09-16-daw_ud_01_control_versiones_documentacion.html</id>
     <link href="https://joseluisgs.dev/posts/2025/2025-09-16-daw_ud_01_control_versiones_documentacion.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>La primera unidad didáctica del módulo de Despliegue de Aplicaciones Web se centra en dos pilares fundamentales para el desarrollo de software profesional y colaborativo: el control de versiones y la documentación del código. Estos conceptos no solo son esenciales para mantener la integridad y la calidad del <em>software</em>, sino que también facilitan la colaboración entre equipos de desarrollo, permitiendo un flujo de trabajo más eficiente y organizado.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>La primera unidad didáctica del módulo de Despliegue de Aplicaciones Web se centra en dos pilares fundamentales para el desarrollo de software profesional y colaborativo: el control de versiones y la documentación del código. Estos conceptos no solo son esenciales para mantener la integridad y la calidad del <em>software</em>, sino que también facilitan la colaboración entre equipos de desarrollo, permitiendo un flujo de trabajo más eficiente y organizado.</p>
@@ -1307,7 +1307,7 @@ C# permite implementar el patrón de «vía de tren». Si algo falla, el flujo s
     <title type="text">Desarrollo Web en Entorno Servidor 01 - Introducción a la Programación de Software en Servidor</title>
     <id>https://joseluisgs.dev/posts/2025/2025-09-16-dwes_ud_01_introduccion_programacion_servidor.html</id>
     <link href="https://joseluisgs.dev/posts/2025/2025-09-16-dwes_ud_01_introduccion_programacion_servidor.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>La primera unidad del módulo de Desarrollo Web en Entornos Servidor es una inmersión en los conceptos fundamentales que sustentan las aplicaciones web modernas. Se centra en el <em>backend</em>, la parte de una aplicación que se ejecuta en el servidor y gestiona la lógica de negocio y los datos, a diferencia del <em>front-end</em>, que es la interfaz visible para el usuario en el navegador.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>La primera unidad del módulo de Desarrollo Web en Entornos Servidor es una inmersión en los conceptos fundamentales que sustentan las aplicaciones web modernas. Se centra en el <em>backend</em>, la parte de una aplicación que se ejecuta en el servidor y gestiona la lógica de negocio y los datos, a diferencia del <em>front-end</em>, que es la interfaz visible para el usuario en el navegador.</p>
@@ -1341,7 +1341,7 @@ C# permite implementar el patrón de «vía de tren». Si algo falla, el flujo s
     <title type="text">Entornos de Desarrollo - 01 Desarrollo de Software</title>
     <id>https://joseluisgs.dev/posts/2025/2025-09-16-ed_ud_01_desarrollo_software.html</id>
     <link href="https://joseluisgs.dev/posts/2025/2025-09-16-ed_ud_01_desarrollo_software.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>Antes de sumergirnos en las herramientas y técnicas, es esencial entender el proceso completo que hay detrás de la creación de una aplicación. La Unidad Didáctica 1: Desarrollo de Software nos proporciona esa base sólida. Aquí no solo se aprende a escribir código, sino a entender todo el ciclo de vida de una aplicación, desde la idea inicial hasta su retirada del mercado.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>Antes de sumergirnos en las herramientas y técnicas, es esencial entender el proceso completo que hay detrás de la creación de una aplicación. La Unidad Didáctica 1: Desarrollo de Software nos proporciona esa base sólida. Aquí no solo se aprende a escribir código, sino a entender todo el ciclo de vida de una aplicación, desde la idea inicial hasta su retirada del mercado.</p>
@@ -1385,7 +1385,7 @@ C# permite implementar el patrón de «vía de tren». Si algo falla, el flujo s
     <title type="text">Programación 01 - Introducción a la Programación Software</title>
     <id>https://joseluisgs.dev/posts/2025/2025-09-16-prog_ud_01_introduccion_programacion.html</id>
     <link href="https://joseluisgs.dev/posts/2025/2025-09-16-prog_ud_01_introduccion_programacion.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>El primer tema del módulo de Programación se centra en sentar las bases teóricas y prácticas del desarrollo de software. Va más allá de escribir código para introducir los conceptos esenciales que todo programador debe dominar. Ahondaremos en cómo pasar de algo tan abstracto como una idea o un problema a una solución concreta y funcional mediante la programación y las bases iniciales de un lenguaje de programación.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>El primer tema del módulo de Programación se centra en sentar las bases teóricas y prácticas del desarrollo de software. Va más allá de escribir código para introducir los conceptos esenciales que todo programador debe dominar. Ahondaremos en cómo pasar de algo tan abstracto como una idea o un problema a una solución concreta y funcional mediante la programación y las bases iniciales de un lenguaje de programación.</p>
@@ -1415,7 +1415,7 @@ Finalmente, la unidad introduce los elementos básicos de cualquier programa, co
     <title type="text">Arranca el curso de Despliegue de Aplicaciones Web 2025-2026</title>
     <id>https://joseluisgs.dev/posts/2025/2025-09-15-arranca_depliegue_web.html</id>
     <link href="https://joseluisgs.dev/posts/2025/2025-09-15-arranca_depliegue_web.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>El ciclo de Desarrollo de Aplicaciones Web va mucho más allá de escribir código funcional. El verdadero desafío y el broche de oro de cualquier proyecto es el despliegue. Aquí es donde el módulo de Despliegue de Aplicaciones Web se convierte en la pieza fundamental para cualquier futuro profesional del sector. Describimos a continuación qué nos espera en este curso académico.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>El ciclo de Desarrollo de Aplicaciones Web va mucho más allá de escribir código funcional. El verdadero desafío y el broche de oro de cualquier proyecto es el despliegue. Aquí es donde el módulo de Despliegue de Aplicaciones Web se convierte en la pieza fundamental para cualquier futuro profesional del sector. Describimos a continuación qué nos espera en este curso académico.</p>
@@ -1451,7 +1451,7 @@ Finalmente, la unidad introduce los elementos básicos de cualquier programa, co
     <title type="text">Arranca el curso de Desarrollo Web en Entorno Servidor 2025-2026</title>
     <id>https://joseluisgs.dev/posts/2025/2025-09-15-arranca_desarrollo_web_servidor.html</id>
     <link href="https://joseluisgs.dev/posts/2025/2025-09-15-arranca_desarrollo_web_servidor.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>Desarrollo Web en Entorno Servidor (DWES) se erige como un pilar fundamental en el ciclo de Desarrollo de Aplicaciones Web, con el objetivo de dotar a los estudiantes de las habilidades y conocimientos necesarios para diseñar, construir, implementar y mantener aplicaciones del lado del servidor. Este curso profundiza en los conceptos esenciales del desarrollo web y la creación de servicios y aplicaciones que impulsan la funcionalidad de los sitios en la web. Mostramos a continuación qué nos espera en este curso académico.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>Desarrollo Web en Entorno Servidor (DWES) se erige como un pilar fundamental en el ciclo de Desarrollo de Aplicaciones Web, con el objetivo de dotar a los estudiantes de las habilidades y conocimientos necesarios para diseñar, construir, implementar y mantener aplicaciones del lado del servidor. Este curso profundiza en los conceptos esenciales del desarrollo web y la creación de servicios y aplicaciones que impulsan la funcionalidad de los sitios en la web. Mostramos a continuación qué nos espera en este curso académico.</p>
@@ -1483,7 +1483,7 @@ Finalmente, la unidad introduce los elementos básicos de cualquier programa, co
     <title type="text">Arranca el curso de Entornos de Desarrollo 2025-2026</title>
     <id>https://joseluisgs.dev/posts/2025/2025-09-15-arranca_entornos_desarrollo.html</id>
     <link href="https://joseluisgs.dev/posts/2025/2025-09-15-arranca_entornos_desarrollo.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>Si el módulo de Programación nos enseña a &quot;hablar&quot; con la máquina, el módulo de Entornos de Desarrollo nos enseña a hacerlo de forma profesional, eficiente y colaborativa. Este curso no se limita a las herramientas; se centra en el ciclo de vida completo del <em>software</em>, una habilidad clave en cualquier equipo de desarrollo. Veamos qué nos espera en este emocionante viaje.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>Si el módulo de Programación nos enseña a &quot;hablar&quot; con la máquina, el módulo de Entornos de Desarrollo nos enseña a hacerlo de forma profesional, eficiente y colaborativa. Este curso no se limita a las herramientas; se centra en el ciclo de vida completo del <em>software</em>, una habilidad clave en cualquier equipo de desarrollo. Veamos qué nos espera en este emocionante viaje.</p>
@@ -1530,7 +1530,7 @@ Finalmente, la unidad introduce los elementos básicos de cualquier programa, co
     <title type="text">Arranca el curso de Programación 2025-2026</title>
     <id>https://joseluisgs.dev/posts/2025/2025-09-15-arranca_programacion.html</id>
     <link href="https://joseluisgs.dev/posts/2025/2025-09-15-arranca_programacion.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>¡Hola a todos! Estamos emocionados de comenzar un nuevo curso en el ciclo de Desarrollo de Aplicaciones Web. Este año, el módulo de Programación se presenta más interesante que nunca, con un enfoque fresco y alineado con las últimas tendencias del sector tecnológico.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>¡Hola a todos! Estamos emocionados de comenzar un nuevo curso en el ciclo de Desarrollo de Aplicaciones Web. Este año, el módulo de Programación se presenta más interesante que nunca, con un enfoque fresco y alineado con las últimas tendencias del sector tecnológico.</p>
@@ -1589,7 +1589,7 @@ Para que no pierdas el hilo de lo que se hace en clase, todos los materiales y e
     <title type="text">Podcast en Algoritmo Salvaje</title>
     <id>https://joseluisgs.dev/posts/2024/2024-07-31-podcast-algoritmo-salvaje.html</id>
     <link href="https://joseluisgs.dev/posts/2024/2024-07-31-podcast-algoritmo-salvaje.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>Hace muy poquito tuve el placer de conocer y hablar con la gente de <a href="https://www.algoritmosalvaje.com/" target="_blank" rel="noopener noreferrer">Algoritmo Salvaje</a>. En este pódcast hemos hablado un poco de la nueva FP con lo que conocemos y de cómo serán las novedades DAW-DAM en este nuevo curso 2024-2025. Ha sido un placer poder compartir un rato con ellos y poder hablar de la nueva FP y mostrar, con lo que conocemos actualmente y mi visión personal, cómo será el nuevo ciclo de DAW-DAM.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>Hace muy poquito tuve el placer de conocer y hablar con la gente de <a href="https://www.algoritmosalvaje.com/" target="_blank" rel="noopener noreferrer">Algoritmo Salvaje</a>. En este pódcast hemos hablado un poco de la nueva FP con lo que conocemos y de cómo serán las novedades DAW-DAM en este nuevo curso 2024-2025. Ha sido un placer poder compartir un rato con ellos y poder hablar de la nueva FP y mostrar, con lo que conocemos actualmente y mi visión personal, cómo será el nuevo ciclo de DAW-DAM.</p>
@@ -1607,7 +1607,7 @@ Para que no pierdas el hilo de lo que se hace en clase, todos los materiales y e
     <title type="text">Ajustando biorritmos y cosas del día a día</title>
     <id>https://joseluisgs.dev/posts/2024/2024-01-04-ajustando-biorritmos.html</id>
     <link href="https://joseluisgs.dev/posts/2024/2024-01-04-ajustando-biorritmos.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>Esta primera parte del curso 2023/2024 no solo ha traído los cambios de turno de mañana a tarde en el centro, sino diversas consecuencias que han hecho que ajustemos los biorritmos, siguiendo una de las bromas que he tenido por ello. Te comento estos cambios.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>Esta primera parte del curso 2023/2024 no solo ha traído los cambios de turno de mañana a tarde en el centro, sino diversas consecuencias que han hecho que ajustemos los biorritmos, siguiendo una de las bromas que he tenido por ello. Te comento estos cambios.</p>
@@ -1632,7 +1632,7 @@ Para que no pierdas el hilo de lo que se hace en clase, todos los materiales y e
     <title type="text">Pódcast en Devexpert.io</title>
     <id>https://joseluisgs.dev/posts/2024/2024-01-03-podcast-devexpert.html</id>
     <link href="https://joseluisgs.dev/posts/2024/2024-01-03-podcast-devexpert.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>Una de las mejores cosas de este curso 2023-2024 es haber participado en el pódcast de <a href="https://devexpert.io/" target="_blank" rel="noopener noreferrer">DevExpert.io</a>. En este nuevo pódcast hemos hablado un poco de la labor docente y de muchas cosas en general con mi amigo y gran profesional Antonio Leiva.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>Una de las mejores cosas de este curso 2023-2024 es haber participado en el pódcast de <a href="https://devexpert.io/" target="_blank" rel="noopener noreferrer">DevExpert.io</a>. En este nuevo pódcast hemos hablado un poco de la labor docente y de muchas cosas en general con mi amigo y gran profesional Antonio Leiva.</p>
@@ -1650,7 +1650,7 @@ Para que no pierdas el hilo de lo que se hace en clase, todos los materiales y e
     <title type="text">Curso nuevo, y nuevos objetivos</title>
     <id>https://joseluisgs.dev/posts/2023/2023-10-27-curso-nuevo.html</id>
     <link href="https://joseluisgs.dev/posts/2023/2023-10-27-curso-nuevo.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>Comenzamos un nuevo curso, y con ello nuevos objetivos, nuevos retos y nuevas ilusiones. También ha habido cambios en mi vida profesional. Te cuento algunas cosas que me han pasado y que me van a pasar. ¿Te apuntas?</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>Comenzamos un nuevo curso, y con ello nuevos objetivos, nuevos retos y nuevas ilusiones. También ha habido cambios en mi vida profesional. Te cuento algunas cosas que me han pasado y que me van a pasar. ¿Te apuntas?</p>
@@ -1678,7 +1678,7 @@ Para que no pierdas el hilo de lo que se hace en clase, todos los materiales y e
     <title type="text">Entrevista y podcast en Disco Duro de Roer</title>
     <id>https://joseluisgs.dev/posts/2023/2023-07-09-entrevista-disco-duro.roer.html</id>
     <link href="https://joseluisgs.dev/posts/2023/2023-07-09-entrevista-disco-duro.roer.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>Estos días he tenido la inmensa fortuna de que la gente de <a href="https://www.discoduroderoer.es/" target="_blank" rel="noopener noreferrer">Disco Duro de Roer</a> se ha interesado por mi labor y hemos pasado un rato genial y muy agradable hablando de ello.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>Estos días he tenido la inmensa fortuna de que la gente de <a href="https://www.discoduroderoer.es/" target="_blank" rel="noopener noreferrer">Disco Duro de Roer</a> se ha interesado por mi labor y hemos pasado un rato genial y muy agradable hablando de ello.</p>
@@ -1696,7 +1696,7 @@ Para que no pierdas el hilo de lo que se hace en clase, todos los materiales y e
     <title type="text">Crea tu API REST reactiva con Kotlin y Ktor Parte I</title>
     <id>https://joseluisgs.dev/posts/2023/2023-05-29-reactive-api-rest-pt-i.html</id>
     <link href="https://joseluisgs.dev/posts/2023/2023-05-29-reactive-api-rest-pt-i.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>La programación reactiva tiene muchas aplicaciones, una de ellas es poder aplicarse en cualquier parte del <em>front</em> y <em>back</em> para aprovecharse de algunas de sus ventajas. Este año también la hemos trabajado en clase. Como uno de los responsables del <em>track</em> de Kotlin Developer estoy escribiendo una serie de tutoriales para <a href="https://hyperskill.org/" target="_blank" rel="noopener noreferrer">Hyperskill</a> de <a href="https://lp.jetbrains.com/jba-students/" target="_blank" rel="noopener noreferrer">JetBrains Academy</a>, donde se explica cómo crear una API REST reactiva con Kotlin y Ktor y repaso una serie de conceptos en los que se basa. Os lo dejo traducido, pero recomiendo que leáis el original en inglés y votéis para que sigan saliendo más partes: <a href="https://medium.com/p/f217be55c0bf" target="_blank" rel="noopener noreferrer">Creating Your Reactive REST API with Kotlin and Ktor Part I</a>.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>La programación reactiva tiene muchas aplicaciones, una de ellas es poder aplicarse en cualquier parte del <em>front</em> y <em>back</em> para aprovecharse de algunas de sus ventajas. Este año también la hemos trabajado en clase. Como uno de los responsables del <em>track</em> de Kotlin Developer estoy escribiendo una serie de tutoriales para <a href="https://hyperskill.org/" target="_blank" rel="noopener noreferrer">Hyperskill</a> de <a href="https://lp.jetbrains.com/jba-students/" target="_blank" rel="noopener noreferrer">JetBrains Academy</a>, donde se explica cómo crear una API REST reactiva con Kotlin y Ktor y repaso una serie de conceptos en los que se basa. Os lo dejo traducido, pero recomiendo que leáis el original en inglés y votéis para que sigan saliendo más partes: <a href="https://medium.com/p/f217be55c0bf" target="_blank" rel="noopener noreferrer">Creating Your Reactive REST API with Kotlin and Ktor Part I</a>.</p>
@@ -2048,7 +2048,7 @@ Para que no pierdas el hilo de lo que se hace en clase, todos los materiales y e
     <title type="text">¿Cómo puedo ayudar en 2023?</title>
     <id>https://joseluisgs.dev/posts/2023/2023-01-01-como-puedo-ayudar.html</id>
     <link href="https://joseluisgs.dev/posts/2023/2023-01-01-como-puedo-ayudar.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>Año que acaba y año que comienza. Es tiempo de hacer balance y de pensar en el futuro. En este caso, en el futuro inmediato. El 2023 ya está aquí. No soy muy amante de los propósitos de año nuevo, pero este año me he marcado cambiar algunas cosas con respecto al año pasado, pues hay situaciones que no han terminado de encajar y me gustaría poner de mi parte para mejorarlas. Mi primer <em>deploy</em> de 2023.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>Año que acaba y año que comienza. Es tiempo de hacer balance y de pensar en el futuro. En este caso, en el futuro inmediato. El 2023 ya está aquí. No soy muy amante de los propósitos de año nuevo, pero este año me he marcado cambiar algunas cosas con respecto al año pasado, pues hay situaciones que no han terminado de encajar y me gustaría poner de mi parte para mejorarlas. Mi primer <em>deploy</em> de 2023.</p>
@@ -2123,7 +2123,7 @@ Para que no pierdas el hilo de lo que se hace en clase, todos los materiales y e
     <title type="text">Soy un Vue Lover</title>
     <id>https://joseluisgs.dev/posts/2021/2021-12-08-soy-un-vue-lover.html</id>
     <link href="https://joseluisgs.dev/posts/2021/2021-12-08-soy-un-vue-lover.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>Confieso, soy un Vue Lover y estoy orgulloso de serlo. Hace poco os hablé de cómo <a href="/posts/2021/2021-11-28-kotlin-en-mi-equipo.html" target="_blank">Kotlin siempre estaba en mi equipo</a>. Hoy me toca una de las entradas que más deseaba escribir. Vue.js es imprescindible para mí. Aunque lo he ido adelantando a lo largo de esta web y distintas entradas y proyectos. Creo que no quedan dudas de que me encanta Vue.js y poco a poco te voy a mostrar a qué se debe que sea parte fundamental de mi <a href="/posts/2021/2021-11-27-mi-stack.html" target="_blank">stack como desarrollador y profesor</a>.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>Confieso, soy un Vue Lover y estoy orgulloso de serlo. Hace poco os hablé de cómo <a href="/posts/2021/2021-11-28-kotlin-en-mi-equipo.html" target="_blank">Kotlin siempre estaba en mi equipo</a>. Hoy me toca una de las entradas que más deseaba escribir. Vue.js es imprescindible para mí. Aunque lo he ido adelantando a lo largo de esta web y distintas entradas y proyectos. Creo que no quedan dudas de que me encanta Vue.js y poco a poco te voy a mostrar a qué se debe que sea parte fundamental de mi <a href="/posts/2021/2021-11-27-mi-stack.html" target="_blank">stack como desarrollador y profesor</a>.</p>
@@ -2207,7 +2207,7 @@ Para que no pierdas el hilo de lo que se hace en clase, todos los materiales y e
     <title type="text">Kotlin siempre en mi equipo</title>
     <id>https://joseluisgs.dev/posts/2021/2021-11-28-kotlin-en-mi-equipo.html</id>
     <link href="https://joseluisgs.dev/posts/2021/2021-11-28-kotlin-en-mi-equipo.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>Hace poquito te hablé de que había <a href="/posts/2021/2021-11-17-he-vuelto-a-java.html" target="_blank">vuelto a Java</a> y de que lo seguía odiando. En esta entrada entenderás parte del porqué. Quiero presentarte a Kotlin, uno de los lenguajes que más uso y que es pilar de mi <a href="/posts/2021/2021-11-27-mi-stack.html" target="_blank">stack de desarrollo</a>. Es elegante y es potente. Me facilita la vida tanto a nivel docente como a nivel de desarrollador. Quiero que conozcas a uno de los lenguajes más completos que existen en el mercado y, después de conocerlo, quizás te pueda servir para tu desarrollo dada su versatilidad.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>Hace poquito te hablé de que había <a href="/posts/2021/2021-11-17-he-vuelto-a-java.html" target="_blank">vuelto a Java</a> y de que lo seguía odiando. En esta entrada entenderás parte del porqué. Quiero presentarte a Kotlin, uno de los lenguajes que más uso y que es pilar de mi <a href="/posts/2021/2021-11-27-mi-stack.html" target="_blank">stack de desarrollo</a>. Es elegante y es potente. Me facilita la vida tanto a nivel docente como a nivel de desarrollador. Quiero que conozcas a uno de los lenguajes más completos que existen en el mercado y, después de conocerlo, quizás te pueda servir para tu desarrollo dada su versatilidad.</p>
@@ -2453,7 +2453,7 @@ Para que no pierdas el hilo de lo que se hace en clase, todos los materiales y e
     <title type="text">Mi Stack como programador</title>
     <id>https://joseluisgs.dev/posts/2021/2021-11-27-mi-stack.html</id>
     <link href="https://joseluisgs.dev/posts/2021/2021-11-27-mi-stack.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>Cuando uno lleva ya algún tiempo en el mundo del desarrollo, ya sea como programador o simplemente enseñando cómo serlo, va viendo un montón de lenguajes y tecnologías, así como terminología que va yendo y viniendo como las olas en el mar. En este <em>post</em>, te comento mis motivos de cómo a nivel personal mi experiencia como desarrollador es más positiva con algunas tecnologías que con otras.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>Cuando uno lleva ya algún tiempo en el mundo del desarrollo, ya sea como programador o simplemente enseñando cómo serlo, va viendo un montón de lenguajes y tecnologías, así como terminología que va yendo y viniendo como las olas en el mar. En este <em>post</em>, te comento mis motivos de cómo a nivel personal mi experiencia como desarrollador es más positiva con algunas tecnologías que con otras.</p>
@@ -2501,7 +2501,7 @@ Para que no pierdas el hilo de lo que se hace en clase, todos los materiales y e
     <title type="text">He vuelto a JAVA y lo sigo odiando</title>
     <id>https://joseluisgs.dev/posts/2021/2021-11-17-he-vuelto-a-java.html</id>
     <link href="https://joseluisgs.dev/posts/2021/2021-11-17-he-vuelto-a-java.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>Aprovecho que mi alumnado está con un examen para lanzar una serie de reflexiones. Como docente y desarrollador que soy, trabajo con distintos lenguajes. Es por ello por lo que para cada proyecto analizo pros y contras, y siempre elijo el que me ofrezca mayor productividad y seguridad para el desarrollo. ¿Odio JAVA? Por supuesto que no. Pero el título es sugerente para captar tu atención y para advertirte que no dependas de una sola opción.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>Aprovecho que mi alumnado está con un examen para lanzar una serie de reflexiones. Como docente y desarrollador que soy, trabajo con distintos lenguajes. Es por ello por lo que para cada proyecto analizo pros y contras, y siempre elijo el que me ofrezca mayor productividad y seguridad para el desarrollo. ¿Odio JAVA? Por supuesto que no. Pero el título es sugerente para captar tu atención y para advertirte que no dependas de una sola opción.</p>
@@ -2540,7 +2540,7 @@ Para que no pierdas el hilo de lo que se hace en clase, todos los materiales y e
     <title type="text">Rendirse no es opción</title>
     <id>https://joseluisgs.dev/posts/2021/2021-11-11-rendirse-no-es-opcion.html</id>
     <link href="https://joseluisgs.dev/posts/2021/2021-11-11-rendirse-no-es-opcion.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>En esta nueva etapa estoy experimentando muchas cosas nuevas, y otras no tan nuevas, como las que se repiten con el alumnado en los primeros meses: frustración, rendición o simplemente asimilar que no todo sale a la primera. A continuación te cuento lo que pienso de esta situación.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>En esta nueva etapa estoy experimentando muchas cosas nuevas, y otras no tan nuevas, como las que se repiten con el alumnado en los primeros meses: frustración, rendición o simplemente asimilar que no todo sale a la primera. A continuación te cuento lo que pienso de esta situación.</p>
@@ -2592,7 +2592,7 @@ Para que no pierdas el hilo de lo que se hace en clase, todos los materiales y e
     <title type="text">Nuevas aventuras. Saliendo de la zona de confort</title>
     <id>https://joseluisgs.dev/posts/2021/2021-09-05-nuevas-aventuras.html</id>
     <link href="https://joseluisgs.dev/posts/2021/2021-09-05-nuevas-aventuras.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>A veces la vida te va empujando por caminos que nunca tenías pensados e incluso a tener que poner un paréntesis a uno de los mejores puestos de trabajo que uno puede tener. Pero es bueno salir de la zona de confort y empezar a explorar nuevas aventuras. Hay que crecer y avanzar, siempre agradeciendo lo vivido y aprendido.
 Te comento mi nuevo camino.</p>
 ]]></summary>
@@ -2633,7 +2633,7 @@ Después del cambio a Córdoba y de volver a Puertollano, aprendí que uno no de
     <title type="text">Testeando en Vue.js con Jest y Cypress</title>
     <id>https://joseluisgs.dev/posts/2021/2021-08-05-testeando-vue.html</id>
     <link href="https://joseluisgs.dev/posts/2021/2021-08-05-testeando-vue.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>Cuando desarrollamos cualquier aplicación es fundamental que aseguremos que todo funciona de la mejor manera posible. Para ello, debemos probar nuestra aplicación en un entorno de pruebas. En este proyecto mostramos cómo usar <em>Vue Test Utils</em> en una aplicación para consultar el tiempo usando Vue.js y <em>OpenWeatherMap API</em> y mostrar distintos mecanismos de testeo bajo TDD usando Jest y Cypress dentro de <em>Vue Test Utils</em>.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>Cuando desarrollamos cualquier aplicación es fundamental que aseguremos que todo funciona de la mejor manera posible. Para ello, debemos probar nuestra aplicación en un entorno de pruebas. En este proyecto mostramos cómo usar <em>Vue Test Utils</em> en una aplicación para consultar el tiempo usando Vue.js y <em>OpenWeatherMap API</em> y mostrar distintos mecanismos de testeo bajo TDD usando Jest y Cypress dentro de <em>Vue Test Utils</em>.</p>
@@ -2804,7 +2804,7 @@ Usando los <em>mocks</em>, podemos ver cómo reaccionan nuestros componentes sin
     <title type="text">TDD en JavaScript I. Usando Jest</title>
     <id>https://joseluisgs.dev/posts/2021/2021-08-06-TDD-javascript-I.html</id>
     <link href="https://joseluisgs.dev/posts/2021/2021-08-06-TDD-javascript-I.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>Estos días quiero presentaros una serie de proyectos y miniapuntes que realicé con mayor o menor acierto para explicar el despliegue seguro de las aplicaciones web. En estos miniproyectos hablaré del TDD y BDD y de cómo realizar pruebas unitarias, de integración o E2E. Además, mostraré en esta serie de entradas cómo manejar librerías específicas para ello, como pueden ser Jest o Cypress. En esta primera parte nos centraremos en el uso de Jest, especialmente para test unitarios y de integración y cómo usarlo en proyectos Node.js o de Vue.js.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>Estos días quiero presentaros una serie de proyectos y miniapuntes que realicé con mayor o menor acierto para explicar el despliegue seguro de las aplicaciones web. En estos miniproyectos hablaré del TDD y BDD y de cómo realizar pruebas unitarias, de integración o E2E. Además, mostraré en esta serie de entradas cómo manejar librerías específicas para ello, como pueden ser Jest o Cypress. En esta primera parte nos centraremos en el uso de Jest, especialmente para test unitarios y de integración y cómo usarlo en proyectos Node.js o de Vue.js.</p>
@@ -2909,7 +2909,7 @@ Usando los <em>mocks</em>, podemos ver cómo reaccionan nuestros componentes sin
     <title type="text">TDD en JavaScript II. Usando Cypress</title>
     <id>https://joseluisgs.dev/posts/2021/2021-08-09-TDD-javascript-II.html</id>
     <link href="https://joseluisgs.dev/posts/2021/2021-08-09-TDD-javascript-II.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>Como ya comenzamos en <a href="/posts/2021/2021-08-06-TDD-javascript-I.html" target="_blank">anteriores publicaciones</a>, vamos a seguir con una serie de apuntes y miniproyectos para iniciarse en TDD y BDD para realizar pruebas unitarias, de integración o E2E. En esta segunda parte nos centraremos en el uso de Cypress para usarla en los test E2E, usándola en todo tipo de aplicaciones web y remarcando, por supuesto, su uso en Vue.js.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>Como ya comenzamos en <a href="/posts/2021/2021-08-06-TDD-javascript-I.html" target="_blank">anteriores publicaciones</a>, vamos a seguir con una serie de apuntes y miniproyectos para iniciarse en TDD y BDD para realizar pruebas unitarias, de integración o E2E. En esta segunda parte nos centraremos en el uso de Cypress para usarla en los test E2E, usándola en todo tipo de aplicaciones web y remarcando, por supuesto, su uso en Vue.js.</p>
@@ -3069,7 +3069,7 @@ Usando los <em>mocks</em>, podemos ver cómo reaccionan nuestros componentes sin
     <title type="text">Me gusta JavaScript</title>
     <id>https://joseluisgs.dev/posts/2021/2021-07-22-me-gusta-javascript.html</id>
     <link href="https://joseluisgs.dev/posts/2021/2021-07-22-me-gusta-javascript.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>No os voy a engañar. Yo era el tipo de persona que no soportaba JavaScript en sus comienzos y solo le veía utilidad para mejorar determinados aspectos de la web. Era un apasionado de las <em>apps</em> móviles y del <em>back-end</em>. Pero desde el cambio de filosofía del 2015 unido a Node.js y a <em>frameworks</em> actuales, JavaScript (ES6 y versiones posteriores) y su mundo cada día me lo ponen más fácil. Ahora te cuento mis motivos.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>No os voy a engañar. Yo era el tipo de persona que no soportaba JavaScript en sus comienzos y solo le veía utilidad para mejorar determinados aspectos de la web. Era un apasionado de las <em>apps</em> móviles y del <em>back-end</em>. Pero desde el cambio de filosofía del 2015 unido a Node.js y a <em>frameworks</em> actuales, JavaScript (ES6 y versiones posteriores) y su mundo cada día me lo ponen más fácil. Ahora te cuento mis motivos.</p>
@@ -3100,7 +3100,7 @@ Usando los <em>mocks</em>, podemos ver cómo reaccionan nuestros componentes sin
     <title type="text">Desarrolla tu API REST en Node.js</title>
     <id>https://joseluisgs.dev/posts/2021/2021-06-16-api-rest-node.html</id>
     <link href="https://joseluisgs.dev/posts/2021/2021-06-16-api-rest-node.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>Una de las cosas con las que más cómodo me siento es con la facilidad con la que, usando JavaScript y TypeScript, puedo desarrollar cualquier tipo de producto, desde el <em>back</em> hasta el <em>front</em>, pasando por dispositivos móviles o aplicaciones de Alexa. En esta entrada te comento, a nivel didáctico, distintos proyectos usados y librerías para aprender a montarte tu propio <em>back-end</em> para que consuman tu API REST.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>Una de las cosas con las que más cómodo me siento es con la facilidad con la que, usando JavaScript y TypeScript, puedo desarrollar cualquier tipo de producto, desde el <em>back</em> hasta el <em>front</em>, pasando por dispositivos móviles o aplicaciones de Alexa. En esta entrada te comento, a nivel didáctico, distintos proyectos usados y librerías para aprender a montarte tu propio <em>back-end</em> para que consuman tu API REST.</p>
@@ -3237,7 +3237,7 @@ El modelo es la estructuración de los datos a tratar.</p>
     <title type="text">Soy nuevo GitHub Campus Advisor</title>
     <id>https://joseluisgs.dev/posts/2021/2021-06-02-github-advisor.html</id>
     <link href="https://joseluisgs.dev/posts/2021/2021-06-02-github-advisor.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>Hace un tiempo comenté cómo GitHub se había convertido en mi <a href="https://joseluisgs.github.io/blog/2021-05-11-github-imprescindible.html#github-educativo" target="_blank" rel="noopener noreferrer">herramienta imprescindible</a>. Desde hace unos días, soy <em>GitHub Campus Advisor</em> y con ello se me presenta otro nuevo reto: ayudar a profesores y alumnos/as a cómo usar GitHub para el desarrollo de <em>software</em> y aprovecharlo a nivel docente.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>Hace un tiempo comenté cómo GitHub se había convertido en mi <a href="https://joseluisgs.github.io/blog/2021-05-11-github-imprescindible.html#github-educativo" target="_blank" rel="noopener noreferrer">herramienta imprescindible</a>. Desde hace unos días, soy <em>GitHub Campus Advisor</em> y con ello se me presenta otro nuevo reto: ayudar a profesores y alumnos/as a cómo usar GitHub para el desarrollo de <em>software</em> y aprovecharlo a nivel docente.</p>
@@ -3271,7 +3271,7 @@ El modelo es la estructuración de los datos a tratar.</p>
     <title type="text">Construyendo una skill de Alexa</title>
     <id>https://joseluisgs.dev/posts/2021/2021-05-24-skill-informatica.html</id>
     <link href="https://joseluisgs.dev/posts/2021/2021-05-24-skill-informatica.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>La <a href="https://www.amazon.es/JLGS-Inform%C3%A1tica-Virgen-de-Gracia/dp/B088JPBLS9/ref=sr_1_8?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;dchild=1&amp;keywords=informatica+skill&amp;qid=1621671069&amp;sr=8-8" target="_blank" rel="noopener noreferrer">Skill del Departamento de Informática</a> representa un proyecto de innovación docente con fines didácticos con el objetivo de cómo diseñar un asistente de voz para conocer los ciclos existentes de la familia de informática. Te comento en esta entrada las bases del desarrollo de una <em>skill</em>.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>La <a href="https://www.amazon.es/JLGS-Inform%C3%A1tica-Virgen-de-Gracia/dp/B088JPBLS9/ref=sr_1_8?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;dchild=1&amp;keywords=informatica+skill&amp;qid=1621671069&amp;sr=8-8" target="_blank" rel="noopener noreferrer">Skill del Departamento de Informática</a> representa un proyecto de innovación docente con fines didácticos con el objetivo de cómo diseñar un asistente de voz para conocer los ciclos existentes de la familia de informática. Te comento en esta entrada las bases del desarrollo de una <em>skill</em>.</p>
@@ -3445,7 +3445,7 @@ Una vez que Amazon ha completado la revisión, recibirás un correo electrónico
     <title type="text">GitKraken superpoder para tus proyectos</title>
     <id>https://joseluisgs.dev/posts/2021/2021-05-20-gitkraken-superpoder-git.html</id>
     <link href="https://joseluisgs.dev/posts/2021/2021-05-20-gitkraken-superpoder-git.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p><a href="https://www.gitkraken.com/invite/wdJ7HntT" target="_blank" rel="noopener noreferrer">GitKraken</a> es para mí el mejor complemento existente para trabajar con Git y GitHub. Nos ayuda a mejorar nuestra productividad diaria con los repositorios y, además, a nivel docente es insuperable con muchas ventajas. Nos ofrece todo aquello para hacer tu trabajo más fácil, intuitivo y divertido. ¡Superpoder para tus proyectos!</p>
 ]]></summary>
     <content type="html"><![CDATA[<p><a href="https://www.gitkraken.com/invite/wdJ7HntT" target="_blank" rel="noopener noreferrer">GitKraken</a> es para mí el mejor complemento existente para trabajar con Git y GitHub. Nos ayuda a mejorar nuestra productividad diaria con los repositorios y, además, a nivel docente es insuperable con muchas ventajas. Nos ofrece todo aquello para hacer tu trabajo más fácil, intuitivo y divertido. ¡Superpoder para tus proyectos!</p>
@@ -3554,7 +3554,7 @@ Una vez que Amazon ha completado la revisión, recibirás un correo electrónico
     <title type="text">Proyecto de innovación COMUNICA</title>
     <id>https://joseluisgs.dev/posts/2021/2021-05-13-innovacion-comunica.html</id>
     <link href="https://joseluisgs.dev/posts/2021/2021-05-13-innovacion-comunica.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>Una de las cosas que más me gusta de mi profesión es la parte de innovación. No solo se trata de dar clase, sino de crear nuevos mecanismos para impartirla y con ellos intentar resolver problemas que existen en la sociedad. Te comento uno de los proyectos que tengo la suerte de coordinar este año.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>Una de las cosas que más me gusta de mi profesión es la parte de innovación. No solo se trata de dar clase, sino de crear nuevos mecanismos para impartirla y con ellos intentar resolver problemas que existen en la sociedad. Te comento uno de los proyectos que tengo la suerte de coordinar este año.</p>
@@ -3661,7 +3661,7 @@ Una vez que Amazon ha completado la revisión, recibirás un correo electrónico
     <title type="text">Mis Lugares app Android en Kotlin</title>
     <id>https://joseluisgs.dev/posts/2021/2021-05-12-mis-lugares-android-kotlin.html</id>
     <link href="https://joseluisgs.dev/posts/2021/2021-05-12-mis-lugares-android-kotlin.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p><a href="https://github.com/joseluisgs/MisLugares" target="_blank" rel="noopener noreferrer">Mis Lugares</a> es la <em>app</em> que resume todo lo trabajado en Programación Multimedia y Dispositivos Móviles. El objetivo principal es tener una <em>app</em> que cubra la mayoría de la funcionalidad y contenidos que se ven en este módulo de DAM, donde simulamos ser una empresa desarrollando un producto real. A continuación te comento los aspectos más importantes.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p><a href="https://github.com/joseluisgs/MisLugares" target="_blank" rel="noopener noreferrer">Mis Lugares</a> es la <em>app</em> que resume todo lo trabajado en Programación Multimedia y Dispositivos Móviles. El objetivo principal es tener una <em>app</em> que cubra la mayoría de la funcionalidad y contenidos que se ven en este módulo de DAM, donde simulamos ser una empresa desarrollando un producto real. A continuación te comento los aspectos más importantes.</p>
@@ -3820,7 +3820,7 @@ se debe generar con <em>keytool</em> la huella SHA-1 con los datos del paquete <
     <title type="text">GitHub, mi herramienta imprescindible</title>
     <id>https://joseluisgs.dev/posts/2021/2021-05-11-github-imprescindible.html</id>
     <link href="https://joseluisgs.dev/posts/2021/2021-05-11-github-imprescindible.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>Sí, soy un enamorado de las tecnologías de mi amigo <em>Octocat</em>. De hecho, se han convertido en estos dos últimos cursos en mi pilar central en el que desarrollo mi docencia y donde concentro <a href="https://github.com/joseluisgs" target="_blank" rel="noopener noreferrer">apuntes y prácticas</a> y proyectos personales. Me ofrece tantas ventajas, que voy a iniciar mi especial sobre tecnologías favoritas explicando cómo uso GitHub en mi día a día.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>Sí, soy un enamorado de las tecnologías de mi amigo <em>Octocat</em>. De hecho, se han convertido en estos dos últimos cursos en mi pilar central en el que desarrollo mi docencia y donde concentro <a href="https://github.com/joseluisgs" target="_blank" rel="noopener noreferrer">apuntes y prácticas</a> y proyectos personales. Me ofrece tantas ventajas, que voy a iniciar mi especial sobre tecnologías favoritas explicando cómo uso GitHub en mi día a día.</p>
@@ -3893,7 +3893,7 @@ se debe generar con <em>keytool</em> la huella SHA-1 con los datos del paquete <
     <title type="text">Estudiar Informática en CIFP Virgen de Gracia</title>
     <id>https://joseluisgs.dev/posts/2021/2021-05-01-estdiar-informatica-cifp-virgen.html</id>
     <link href="https://joseluisgs.dev/posts/2021/2021-05-01-estdiar-informatica-cifp-virgen.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>En esta entrada te voy a intentar explicar y, si puedo, convencerte de por qué estudiar algunos de nuestros ciclos en nuestro centro es una opción más que recomendable. No sé si lo conseguiré, pero por intentarlo que no quede. Y ya de paso te presento la <a href="https://informaticacifpvg.netlify.app/" target="_blank" rel="noopener noreferrer">web del departamento</a>. Aún no está terminada, pero poco a poco tendrás en ella todo lo que necesitas para conocernos.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>En esta entrada te voy a intentar explicar y, si puedo, convencerte de por qué estudiar algunos de nuestros ciclos en nuestro centro es una opción más que recomendable. No sé si lo conseguiré, pero por intentarlo que no quede. Y ya de paso te presento la <a href="https://informaticacifpvg.netlify.app/" target="_blank" rel="noopener noreferrer">web del departamento</a>. Aún no está terminada, pero poco a poco tendrás en ella todo lo que necesitas para conocernos.</p>
@@ -3952,7 +3952,7 @@ se debe generar con <em>keytool</em> la huella SHA-1 con los datos del paquete <
     <title type="text">Bonito detalle de JetBrains y Kotlin</title>
     <id>https://joseluisgs.dev/posts/2021/2021-02-10-detalle-de-Kotlin.html</id>
     <link href="https://joseluisgs.dev/posts/2021/2021-02-10-detalle-de-Kotlin.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>Hace ya unos días que recibí un pequeño pero valioso detalle por parte de JetBrains y el equipo de Kotlin por mi labor docente este año aplicando sus tecnologías en el desarrollo móvil. En esta entrada te comento detalles al respecto 🙂.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>Hace ya unos días que recibí un pequeño pero valioso detalle por parte de JetBrains y el equipo de Kotlin por mi labor docente este año aplicando sus tecnologías en el desarrollo móvil. En esta entrada te comento detalles al respecto 🙂.</p>
@@ -3996,7 +3996,7 @@ se debe generar con <em>keytool</em> la huella SHA-1 con los datos del paquete <
     <title type="text">OpenWebinars</title>
     <id>https://joseluisgs.dev/posts/2021/2021-02-04-openwebinars.html</id>
     <link href="https://joseluisgs.dev/posts/2021/2021-02-04-openwebinars.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>Quiero seguir haciendo un repaso de las herramientas o entidades que colaboran con el departamento y nos ayudan en la formación del alumnado. Hoy quiero dar mi opinión de <a href="https://openwebinars.net/" target="_blank" rel="noopener noreferrer">OpenWebinars</a>.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>Quiero seguir haciendo un repaso de las herramientas o entidades que colaboran con el departamento y nos ayudan en la formación del alumnado. Hoy quiero dar mi opinión de <a href="https://openwebinars.net/" target="_blank" rel="noopener noreferrer">OpenWebinars</a>.</p>
@@ -4027,7 +4027,7 @@ se debe generar con <em>keytool</em> la huella SHA-1 con los datos del paquete <
     <title type="text">Google for Education</title>
     <id>https://joseluisgs.dev/posts/2021/2021-02-01-google-education.html</id>
     <link href="https://joseluisgs.dev/posts/2021/2021-02-01-google-education.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>Como adelanté en mi <a href="https://twitter.com/joseluisgonsan/status/1355951733944557574" target="_blank" rel="noopener noreferrer">Twitter</a>, estos días voy a comenzar una serie de publicaciones sobre distintas tecnologías que uso en clase y que han confiado en nosotros para ayudarnos en esta labor y cómo las aplico en el día a día.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>Como adelanté en mi <a href="https://twitter.com/joseluisgonsan/status/1355951733944557574" target="_blank" rel="noopener noreferrer">Twitter</a>, estos días voy a comenzar una serie de publicaciones sobre distintas tecnologías que uso en clase y que han confiado en nosotros para ayudarnos en esta labor y cómo las aplico en el día a día.</p>
@@ -4059,7 +4059,7 @@ se debe generar con <em>keytool</em> la huella SHA-1 con los datos del paquete <
     <title type="text">La importancia de tu proyecto final</title>
     <id>https://joseluisgs.dev/posts/2021/2021-01-26-importancia-proyecto-final.html</id>
     <link href="https://joseluisgs.dev/posts/2021/2021-01-26-importancia-proyecto-final.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>Esta semana han expuesto parte de mi alumnado de 2.º DAM sus proyectos finales. En esta entrada quiero mostrar mis reflexiones de la importancia de este proyecto para proyectarte profesionalmente.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>Esta semana han expuesto parte de mi alumnado de 2.º DAM sus proyectos finales. En esta entrada quiero mostrar mis reflexiones de la importancia de este proyecto para proyectarte profesionalmente.</p>
@@ -4108,7 +4108,7 @@ se debe generar con <em>keytool</em> la huella SHA-1 con los datos del paquete <
     <title type="text">El secreto para seguir aprendiendo</title>
     <id>https://joseluisgs.dev/posts/2021/2021-01-18-seguir-aprendiendo.html</id>
     <link href="https://joseluisgs.dev/posts/2021/2021-01-18-seguir-aprendiendo.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>Muchas veces nos paramos a pensar si en el mundo del desarrollo <em>software</em> alguna vez dejamos de aprender. La respuesta es sencilla: No.</p>
 <p>Las tecnologías cambian y el mundo también y es por ello que es importante saber adaptarse a los cambios y, si es posible, anticiparse a ellos.</p>
 ]]></summary>
@@ -4145,7 +4145,7 @@ conceptos de asincronía, trabajar en JS a nivel de DOM, fundamentos de HTML y C
     <title type="text">¡Hola mundo!</title>
     <id>https://joseluisgs.dev/posts/2021/2021-01-12-hola-mundo.html</id>
     <link href="https://joseluisgs.dev/posts/2021/2021-01-12-hola-mundo.html"/>
-    <updated>2026-04-20T15:02:04.000Z</updated>
+    <updated>2026-04-24T11:34:19.000Z</updated>
     <summary type="html"><![CDATA[<p>Este es mi primer mensaje del blog y de mi web. Poco a poco la iré completando.</p>
 <p>Espero que vaya bien. Comenzamos con... 🙂</p>
 ]]></summary>
