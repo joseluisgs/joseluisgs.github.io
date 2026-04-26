@@ -6,15 +6,15 @@
     <link>https://joseluisgs.dev/</link>
     <description>Web personal de José Luis González Sánchez - Profesor en DAW, DAM y formador certificado</description>
     <language>es-ES</language>
-    <pubDate>Fri, 24 Apr 2026 11:34:56 GMT</pubDate>
-    <lastBuildDate>Fri, 24 Apr 2026 11:34:56 GMT</lastBuildDate>
+    <pubDate>Sun, 26 Apr 2026 11:08:05 GMT</pubDate>
+    <lastBuildDate>Sun, 26 Apr 2026 11:08:05 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Blog</category>
     <category>Proyectos</category>
     <category>Docencia</category>
     <category>Personal</category>
-    <category>Investigación</category>
+    <category>Investigacion</category>
     <item>
       <title>Mobile-First esa asignatura aún pendiente en la UX</title>
       <link>https://joseluisgs.dev/posts/2026/2026-04-23-ux-diseno-mobile-first-backend.html</link>
@@ -3538,7 +3538,7 @@ Una vez que Amazon ha completado la revisión, recibirás un correo electrónico
       <description>Metodología de enseñanza-aprendizaje en el desarrollo del software basada en retos multiequipo, desarrollo de competencias orientadas al entorno profesional</description>
       <category>Proyectos</category>
       <category>Docencia</category>
-      <category>Investigación</category>
+      <category>Investigacion</category>
       <pubDate>Thu, 13 May 2021 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>Una de las cosas que más me gusta de mi profesión es la parte de innovación. No solo se trata de dar clase, sino de crear nuevos mecanismos para impartirla y con ellos intentar resolver problemas que existen en la sociedad. Te comento uno de los proyectos que tengo la suerte de coordinar este año.</p>
 <!-- more -->
