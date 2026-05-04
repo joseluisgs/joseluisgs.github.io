@@ -3,7 +3,7 @@
   <id>https://joseluisgs.dev/</id>
   <title>José Luis González</title>
   <subtitle>Web personal de José Luis González Sánchez - Profesor en DAW, DAM y formador certificado</subtitle>
-  <updated>2026-05-04T19:03:42.838Z</updated>
+  <updated>2026-05-04T19:04:36.892Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://joseluisgs.dev/atom.xml"/>
   <link rel="alternate" href="https://joseluisgs.dev/"/>
@@ -19,7 +19,7 @@
     <title type="text">Tienda Daw Web: Arquitectura Híbrida en .NET para DAW</title>
     <id>https://joseluisgs.dev/posts/2026/2026-05-04-tienda-daw-web.html</id>
     <link href="https://joseluisgs.dev/posts/2026/2026-05-04-tienda-daw-web.html"/>
-    <updated>2026-05-04T19:02:14.000Z</updated>
+    <updated>2026-05-04T19:03:57.000Z</updated>
     <summary type="html"><![CDATA[<p>Como profesor del ciclo de DAW, me gusta que el alumnado trabaje con proyectos completos que les ayuden a entender cómo funcionan las cosas en el mundo real. No siempre es fácil, pero algo que sí puedo hacer es facilitarles ejemplos funcionales que cubran el currículo y les den una base sólida. Hoy os traigo <strong>WalaDaw</strong>, un marketplace en <strong>.NET</strong> que usa MVC, Razor Pages y Blazor Server.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>Como profesor del ciclo de DAW, me gusta que el alumnado trabaje con proyectos completos que les ayuden a entender cómo funcionan las cosas en el mundo real. No siempre es fácil, pero algo que sí puedo hacer es facilitarles ejemplos funcionales que cubran el currículo y les den una base sólida. Hoy os traigo <strong>WalaDaw</strong>, un marketplace en <strong>.NET</strong> que usa MVC, Razor Pages y Blazor Server.</p>
