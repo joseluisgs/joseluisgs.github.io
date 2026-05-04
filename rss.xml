@@ -6,8 +6,8 @@
     <link>https://joseluisgs.dev/</link>
     <description>Web personal de José Luis González Sánchez - Profesor en DAW, DAM y formador certificado</description>
     <language>es-ES</language>
-    <pubDate>Mon, 04 May 2026 19:04:36 GMT</pubDate>
-    <lastBuildDate>Mon, 04 May 2026 19:04:36 GMT</lastBuildDate>
+    <pubDate>Mon, 04 May 2026 19:48:04 GMT</pubDate>
+    <lastBuildDate>Mon, 04 May 2026 19:48:04 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Blog</category>
@@ -33,7 +33,7 @@
 <p><strong>Los fallos son intencionados</strong>: forman parte del aprendizaje. Un alumno que solo ve código &quot;perfecto&quot; no aprende a detectar problemas. En clase analizamos estos &quot;fallos&quot; y discutimos cómo mejorarían en un sistema real.</p>
 </div>
 <p>Imaginad a Víctor, un alumno de 2º DAW que en marzo está buscando empresa. Tiene su CV con las prácticas en empresa, pero necesita algo que le diferencie. Cuando muestra este proyecto en una entrevista técnica, no solo demuestra que sabe hacer un CRUD: demuestra que entiende <strong>arquitectura</strong>, <strong>testing</strong>, <strong>seguridad</strong> y <strong>tiempo real</strong>. Eso es lo que marca la diferencia.</p>
-<p>En esta serie de post vamos a mostrar distintos proyectos que he desarrollado para mis clases, cada uno con un enfoque diferente. Este es el primero, y uno de los que más me gusta. ¡Vamos allá!</p>
+<p>En esta serie de artículos vamos a mostrar distintos proyectos que he desarrollado para mis clases, cada uno con un enfoque diferente. Este es el primero, y uno de los que más me gusta. ¡Vamos allá!</p>
 <h2>Aprendizaje Basado en Proyectos: Por qué este enfoque</h2>
 <p>Antes de nada, quiero explicar por qué hago esto. No soy fan de las clases donde explico teoría durante una hora y luego los alumnos hacen ejercicios sueltos. En DAW, eso no funciona. Un desarrollador web no aprende a hacer una tienda online resolviendo ejercicios de MVC sueltos. Aprende <strong>haciendo una tienda</strong>.</p>
 <p>El <strong>Aprendizaje Basado en Proyectos (ABP)</strong> consiste en eso: aprender haciendo un proyecto real, con problemas reales, donde las tecnologías se usan porque son necesarias, no porque yo lo diga.</p>
@@ -56,7 +56,7 @@
 <h3>¿Qué aporta este proyecto como ejemplo?</h3>
 <ol>
 <li>
-<p><strong>Es real, no artificial</strong>: No es un ejercicio fabricado artificialmente para aprender &quot;el tema 3&quot;. Es una aplicación que funciona, con datos que se persistentes, usuarios que se registran, carritos que funcionan.</p>
+<p><strong>Es real, no artificial</strong>: No es un ejercicio fabricado artificialmente para aprender &quot;el tema 3&quot;. Es una aplicación que funciona, con datos persistentes, usuarios que se registran, carritos que funcionan.</p>
 </li>
 <li>
 <p><strong>Cada tecnología tiene su momento</strong>: Cuando enseño MVC, el alumno ve por qué existe. Cuando llega Blazor, entiende qué problema resuelve. No son palabras vacías.</p>
@@ -104,7 +104,7 @@
 </ul>
 <p><strong>¿Cuándo usarlo?</strong> Cuando necesitas una estructura clara para aplicaciones grandes y empresariales. Enseña al alumno a pensar en términos de responsabilidades.</p>
 <h3>2. Razor Pages: La agilidad centrada en página</h3>
-<p><strong>Razor Pages</strong> agrupa la lógica y la vista en el mismo archivo. Es como si cada página fosse &quot;su propia mini-app&quot;.</p>
+<p><strong>Razor Pages</strong> agrupa la lógica y la vista en el mismo archivo. Es como si cada página fuera &quot;su propia mini-app&quot;.</p>
 <p><strong>¿Cuándo usarlo?</strong> Para páginas más independientes (sobre nosotros, contacto, políticas). Reduce el &quot;boilerplate&quot; y es más rápido de desarrollar.</p>
 <p>Mi truco: Uso Razor Pages para las páginas &quot;estáticas con dinamismo&quot; - las que apenas necesitan lógica pero necesitan datos (aviso legal con datos de empresa, página de contacto con horarios).</p>
 <h3>3. Blazor Server: La interactividad en tiempo real</h3>
