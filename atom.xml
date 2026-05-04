@@ -3,7 +3,7 @@
   <id>https://joseluisgs.dev/</id>
   <title>José Luis González</title>
   <subtitle>Web personal de José Luis González Sánchez - Profesor en DAW, DAM y formador certificado</subtitle>
-  <updated>2026-05-04T19:48:04.286Z</updated>
+  <updated>2026-05-04T20:15:51.843Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://joseluisgs.dev/atom.xml"/>
   <link rel="alternate" href="https://joseluisgs.dev/"/>
@@ -19,7 +19,7 @@
     <title type="text">Tienda Daw Web: Arquitectura Híbrida en .NET para DAW</title>
     <id>https://joseluisgs.dev/posts/2026/2026-05-04-tienda-daw-web.html</id>
     <link href="https://joseluisgs.dev/posts/2026/2026-05-04-tienda-daw-web.html"/>
-    <updated>2026-05-04T19:47:29.000Z</updated>
+    <updated>2026-05-04T20:15:25.000Z</updated>
     <summary type="html"><![CDATA[<p>Como profesor del ciclo de DAW, me gusta que el alumnado trabaje con proyectos completos que les ayuden a entender cómo funcionan las cosas en el mundo real. No siempre es fácil, pero algo que sí puedo hacer es facilitarles ejemplos funcionales que cubran el currículo y les den una base sólida. Hoy os traigo <strong>WalaDaw</strong>, un marketplace en <strong>.NET</strong> que usa MVC, Razor Pages y Blazor Server.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>Como profesor del ciclo de DAW, me gusta que el alumnado trabaje con proyectos completos que les ayuden a entender cómo funcionan las cosas en el mundo real. No siempre es fácil, pero algo que sí puedo hacer es facilitarles ejemplos funcionales que cubran el currículo y les den una base sólida. Hoy os traigo <strong>WalaDaw</strong>, un marketplace en <strong>.NET</strong> que usa MVC, Razor Pages y Blazor Server.</p>
@@ -59,7 +59,7 @@
 <p><strong>Cada tecnología tiene su momento</strong>: Cuando enseño MVC, el alumno ve por qué existe. Cuando llega Blazor, entiende qué problema resuelve. No son palabras vacías.</p>
 </li>
 <li>
-<p><strong>Sirve como apuntes</strong>: El código del proyecto es el mejor material de estudio. No hace falta mis transparencias cuando tienes el proyecto completo con todo documentado en el repo.</p>
+<p><strong>Sirve como apuntes</strong>: El código del proyecto es el mejor material de estudio. No hace falta mis transparencias cuando tienes el proyecto completo con todo documentado en el repositorio.</p>
 </li>
 <li>
 <p><strong>Pueden partir de aquí</strong>: Los alumnos pueden tomar este proyecto como base para sus propios trabajos. Les ahorro el &quot;desde cero&quot; y les reto a mejorarlo.</p>

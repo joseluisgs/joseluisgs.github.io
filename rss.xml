@@ -6,8 +6,8 @@
     <link>https://joseluisgs.dev/</link>
     <description>Web personal de José Luis González Sánchez - Profesor en DAW, DAM y formador certificado</description>
     <language>es-ES</language>
-    <pubDate>Mon, 04 May 2026 19:48:04 GMT</pubDate>
-    <lastBuildDate>Mon, 04 May 2026 19:48:04 GMT</lastBuildDate>
+    <pubDate>Mon, 04 May 2026 20:15:51 GMT</pubDate>
+    <lastBuildDate>Mon, 04 May 2026 20:15:51 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Blog</category>
@@ -62,7 +62,7 @@
 <p><strong>Cada tecnología tiene su momento</strong>: Cuando enseño MVC, el alumno ve por qué existe. Cuando llega Blazor, entiende qué problema resuelve. No son palabras vacías.</p>
 </li>
 <li>
-<p><strong>Sirve como apuntes</strong>: El código del proyecto es el mejor material de estudio. No hace falta mis transparencias cuando tienes el proyecto completo con todo documentado en el repo.</p>
+<p><strong>Sirve como apuntes</strong>: El código del proyecto es el mejor material de estudio. No hace falta mis transparencias cuando tienes el proyecto completo con todo documentado en el repositorio.</p>
 </li>
 <li>
 <p><strong>Pueden partir de aquí</strong>: Los alumnos pueden tomar este proyecto como base para sus propios trabajos. Les ahorro el &quot;desde cero&quot; y les reto a mejorarlo.</p>
