@@ -6,8 +6,8 @@
     <link>https://joseluisgs.dev/</link>
     <description>Web personal de José Luis González Sánchez - Profesor en DAW, DAM y formador certificado</description>
     <language>es-ES</language>
-    <pubDate>Mon, 04 May 2026 20:15:51 GMT</pubDate>
-    <lastBuildDate>Mon, 04 May 2026 20:15:51 GMT</lastBuildDate>
+    <pubDate>Tue, 05 May 2026 07:31:22 GMT</pubDate>
+    <lastBuildDate>Tue, 05 May 2026 07:31:22 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Blog</category>
@@ -29,22 +29,23 @@
 <!-- more -->
 <div class="hint-container warning">
 <p class="hint-container-title">Una aclaración importante</p>
-<p>Este proyecto es <strong>código de aprendizaje, no código de producción</strong>. No pretende ser un sistema real de comercio electrónico. Es un ejemplo didáctico que muestra cómo aplicar las tecnologías del currículo de DWES.</p>
+<p>Este proyecto es <strong>código de aprendizaje, no código de producción</strong>. No pretende ser un sistema real de comercio electrónico. Es un ejemplo didáctico que muestra cómo aplicar las tecnologías del currículo de DWES (Desarrollo Web en Entornos Servidor).</p>
 <p><strong>Los fallos son intencionados</strong>: forman parte del aprendizaje. Un alumno que solo ve código &quot;perfecto&quot; no aprende a detectar problemas. En clase analizamos estos &quot;fallos&quot; y discutimos cómo mejorarían en un sistema real.</p>
 </div>
-<p>Imaginad a Víctor, un alumno de 2º DAW que en marzo está buscando empresa. Tiene su CV con las prácticas en empresa, pero necesita algo que le diferencie. Cuando muestra este proyecto en una entrevista técnica, no solo demuestra que sabe hacer un CRUD: demuestra que entiende <strong>arquitectura</strong>, <strong>testing</strong>, <strong>seguridad</strong> y <strong>tiempo real</strong>. Eso es lo que marca la diferencia.</p>
-<p>En esta serie de artículos vamos a mostrar distintos proyectos que he desarrollado para mis clases, cada uno con un enfoque diferente. Este es el primero, y uno de los que más me gusta. ¡Vamos allá!</p>
+<p>Imaginad a Víctor, un alumno de 2º DAW que en marzo está buscando empresa. Tiene su CV con las prácticas en empresa, pero necesita algo que le diferencie. Cuando muestra este tipo de proyectos en una entrevista técnica, no solo demuestra que sabe hacer un CRUD: demuestra que entiende <strong>arquitectura</strong>, <strong>testing</strong>, <strong>seguridad</strong> y <strong>tiempo real</strong>. Eso es lo que marca la diferencia.</p>
+<p>En esta serie de artículos vamos a mostrar distintos proyectos que he desarrollado para en nuestras clases, cada uno con un enfoque diferente. Este es el primero, y uno de los que más me gusta. ¡Vamos allá!</p>
 <h2>Aprendizaje Basado en Proyectos: Por qué este enfoque</h2>
 <p>Antes de nada, quiero explicar por qué hago esto. No soy fan de las clases donde explico teoría durante una hora y luego los alumnos hacen ejercicios sueltos. En DAW, eso no funciona. Un desarrollador web no aprende a hacer una tienda online resolviendo ejercicios de MVC sueltos. Aprende <strong>haciendo una tienda</strong>.</p>
 <p>El <strong>Aprendizaje Basado en Proyectos (ABP)</strong> consiste en eso: aprender haciendo un proyecto real, con problemas reales, donde las tecnologías se usan porque son necesarias, no porque yo lo diga.</p>
-<h3>Mi metodología en clase</h3>
-<p>Así funciona una sesión típica conmigo:</p>
+<h3>Metodología en clase</h3>
+<p>Así funciona una sesión típica de nuestra clase de DWES:</p>
 <ol>
 <li><strong>Planteo un problema</strong>: &quot;Necesitamos que el usuario pueda filtrar productos por categoría sin recargar la página&quot;</li>
-<li><strong>Exploramos soluciones</strong>: ¿Ajax? ¿JavaScript puro? ¿Blazor?</li>
+<li><strong>Exploramos soluciones</strong>: ¿MVC o Razor Pages? ¿Qué permisos necesita el usuario?</li>
 <li><strong>Implementamos</strong>: Los alumnos trabajan en su copia del proyecto</li>
 <li><strong>Revisamos</strong>: Analizamos qué ha funcionado y qué no</li>
 <li><strong>Mejoramos</strong>: Entre todos buscamos una solución mejor</li>
+<li><strong>Repetimos</strong>: Se plantea un nuevo proyecto similar que deben resolver en equipos, con sus sprints de planificación, desarrollo y revisión</li>
 </ol>
 <p>No soy el que tiene todas las respuestas. Soy el que guía el proceso.</p>
 <p><strong>Ciclo ABP en el aula:</strong></p>
@@ -59,7 +60,7 @@
 <p><strong>Es real, no artificial</strong>: No es un ejercicio fabricado artificialmente para aprender &quot;el tema 3&quot;. Es una aplicación que funciona, con datos persistentes, usuarios que se registran, carritos que funcionan.</p>
 </li>
 <li>
-<p><strong>Cada tecnología tiene su momento</strong>: Cuando enseño MVC, el alumno ve por qué existe. Cuando llega Blazor, entiende qué problema resuelve. No son palabras vacías.</p>
+<p><strong>Cada tecnología tiene su momento</strong>: Cuando enseño MVC, el alumno ve por qué existe. Analizamos las diferencias con Razor Pages. Cuando llega Blazor, entiende qué problema resuelve. No son palabras vacías.</p>
 </li>
 <li>
 <p><strong>Sirve como apuntes</strong>: El código del proyecto es el mejor material de estudio. No hace falta mis transparencias cuando tienes el proyecto completo con todo documentado en el repositorio.</p>
@@ -76,17 +77,19 @@
 <p>En FP no tenemos tiempo de hacer &quot;la teoría primero y la práctica después&quot;. El ABP funde ambas: aprendes la teoría cuando la necesitas para avanzar. Eso es lo que pasa en el mundo real, y eso es lo que preparamos.</p>
 </div>
 <h2>Estructura del módulo DWES</h2>
-<p>En mi metodología para <strong>DWES (Desarrollo Web en Entornos Servidor)</strong>, divido el curso en dos grandes bloques:</p>
+<p>Cuando imparto <strong>DWES (Desarrollo Web en Entornos Servidor)</strong>, divido el curso en dos grandes bloques:</p>
 <ol>
-<li><strong>Bloque de Servicios y APIs</strong>: Nos centramos en la lógica de negocio, el acceso a datos y los servicios RESTful.</li>
-<li><strong>Bloque de Páginas Web Dinámicas</strong>: Recuperamos esa lógica y le damos vida mediante distintas tecnologías de renderizado.</li>
+<li><strong>Bloque de Fundamentos</strong>: Programación asíncrona y reactiva, consumo de servicios, seguridad, testing, acceso a datos, arquitectura de software y patrones de diseño.</li>
+<li><strong>Bloque de Servicios y APIs</strong>: Nos centramos en la lógica de negocio, el acceso a datos y los servicios web.</li>
+<li><strong>Bloque de Páginas Web Dinámicas</strong>: Recuperamos parte de esa lógica y le damos vida mediante distintas tecnologías de renderizado.</li>
 </ol>
 <p><strong>WalaDaw</strong> es el puente entre ambos bloques, demostrando la versatilidad de <strong>.NET</strong> para dominar ambas etapas con un único lenguaje: C#, aunque se centra sobre todo en la segunda parte: la construcción de la interfaz con MVC, Razor Pages y Blazor Server, es decir, páginas web dinámicas con distintas tecnologías.</p>
 <p>Si quieres ver el proyecto en acción, échale un vistazo al <strong><a href="https://tiendadawweb-netcore.onrender.com/" target="_blank" rel="noopener noreferrer">demo en Render</a></strong>. Y si te interesa el código, todo está en <strong><a href="https://github.com/joseluisgs/TiendaDawWeb-NetCore" target="_blank" rel="noopener noreferrer">GitHub</a></strong>.</p>
 <h2>Tecnología: .NET</h2>
-<p>Este proyecto usa <strong>.NET</strong>, la versión más reciente. ¿Por qué? Ofrece un ecosistema completo para desarrollo web, con herramientas de primera clase para cada capa:</p>
+<p>Este proyecto usa <strong>.NET</strong>. ¿Por qué? Ofrece un ecosistema completo para desarrollo web, con herramientas de primera clase para cada capa:</p>
 <ul>
-<li><strong>Backend</strong>: ASP.NET Core con MVC, Razor Pages y Blazor Server</li>
+<li><strong>Backend</strong>: Con acceso a servicios, lógica de negocio, seguridad y datos, caché, y más.</li>
+<li><strong>Frontend</strong>: Con MVC, Razor Pages y Blazor Server para interfaces dinámicas.</li>
 <li><strong>Data Access</strong>: Entity Framework Core con SQLite In-Memory</li>
 <li><strong>Testing</strong>: NUnit para unit e integración, bUnit para componentes Blazor, Playwright para E2E</li>
 <li><strong>Contenerización</strong>: Docker para desarrollo y despliegue</li>
@@ -94,7 +97,7 @@
 </ul>
 <h2>La Arquitectura Híbrida: MVC, Razor Pages y Blazor</h2>
 <p>Lo que hace especial a este proyecto es su <strong>arquitectura híbrida</strong>: comparte el núcleo (servicios, repositorios, modelos) pero despliega tres aproximaciones distintas para la interfaz.</p>
-<p>En clase, explico esto así: &quot;Imaginad que vais a construir una casa. Podéis usar ladrillo, bloques de hormigón o madera. Cada material tiene sus ventajas. Un buen arquitecto sabe cuándo usar cada uno. Aquí pasa igual: MVC, Razor y Blazor son herramientas diferentes para problemas diferentes.&quot;</p>
+<p>En clase, usamos esta metáfora: &quot;Imaginad que vais a construir una casa. Podéis usar ladrillo, bloques de hormigón o madera. Cada material tiene sus ventajas. Un buen arquitecto sabe cuándo usar cada uno. Aquí pasa igual: MVC, Razor y Blazor son herramientas diferentes para problemas diferentes.&quot;</p>
 <h3>1. ASP.NET Core MVC: La separación clásica</h3>
 <p>El patrón <strong>Model-View-Controller</strong> es la aproximación más conocida. Separa claramente la lógica de tres partes:</p>
 <ul>
@@ -102,20 +105,13 @@
 <li><strong>View</strong>: Lo que ve el usuario (vistas Razor)</li>
 <li><strong>Controller</strong>: Coordina todo, recibe peticiones y decide qué devolver</li>
 </ul>
-<p><strong>¿Cuándo usarlo?</strong> Cuando necesitas una estructura clara para aplicaciones grandes y empresariales. Enseña al alumno a pensar en términos de responsabilidades.</p>
+<p><strong>¿Cuándo usarlo?</strong> Cuando necesitas una estructura clara para aplicaciones grandes y empresariales. Enseña al alumno a pensar en términos de responsabilidades. O quieres hacer una aplicación que devuelva una página o una API según la petición o recursos disponibles.</p>
 <h3>2. Razor Pages: La agilidad centrada en página</h3>
 <p><strong>Razor Pages</strong> agrupa la lógica y la vista en el mismo archivo. Es como si cada página fuera &quot;su propia mini-app&quot;.</p>
-<p><strong>¿Cuándo usarlo?</strong> Para páginas más independientes (sobre nosotros, contacto, políticas). Reduce el &quot;boilerplate&quot; y es más rápido de desarrollar.</p>
-<p>Mi truco: Uso Razor Pages para las páginas &quot;estáticas con dinamismo&quot; - las que apenas necesitan lógica pero necesitan datos (aviso legal con datos de empresa, página de contacto con horarios).</p>
+<p><strong>¿Cuándo usarlo?</strong> Cuando la página es relativamente simple y no necesita mucha lógica, pero sí datos dinámicos. Es ideal para páginas de contenido, formularios sencillos, o cualquier cosa que no requiera la complejidad de MVC.</p>
 <h3>3. Blazor Server: La interactividad en tiempo real</h3>
 <p>Aquí está el salto cualitativo. <strong>Blazor Server</strong> permite escribir componentes interactivos <strong>todo en C#</strong> - nada de JavaScript. Usa <strong>SignalR</strong> para comunicación en tiempo real entre el navegador y el servidor.</p>
-<p><strong>¿Qué aporta?</strong></p>
-<ul>
-<li>Filtros de productos que se actualizan sin recargar</li>
-<li>Dashboard de admin con gráficos en vivo</li>
-<li>Notificaciones push del servidor</li>
-</ul>
-<p>La primera vez que pongo un ejemplo de Blazor en clase, los alumnos se quedan mirando. &quot;¿Esto es JavaScript?&quot; - &quot;No, es C#. El servidor está ejecutando código C# en el navegador del usuario&quot;. Hay un momento de confusión, luego de interés, luego de &quot;¿esto funciona de verdad?&quot;. Y sí, funciona.</p>
+<p><strong>¿Cuándo usarlo?</strong> Cuando necesitas interactividad sin recargar la página, pero quieres evitar JavaScript. Es perfecto para dashboards, filtros dinámicos, carritos de compra reactivos, y cualquier cosa que se beneficie de actualizaciones en tiempo real.</p>
 <div class="hint-container tip">
 <p class="hint-container-title">Consejos</p>
 <p>Blazor no es &quot;JavaScript hecho en C#&quot;. Es una forma diferente de pensar: el servidor mantiene una conexión con el navegador y envía actualizaciones. Eso tiene implicaciones importantes en seguridad y rendimiento.</p>
