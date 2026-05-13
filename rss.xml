@@ -6,8 +6,8 @@
     <link>https://joseluisgs.dev/</link>
     <description>Web personal de José Luis González Sánchez - Profesor en DAW, DAM y formador certificado</description>
     <language>es-ES</language>
-    <pubDate>Wed, 13 May 2026 18:47:37 GMT</pubDate>
-    <lastBuildDate>Wed, 13 May 2026 18:47:37 GMT</lastBuildDate>
+    <pubDate>Wed, 13 May 2026 18:57:46 GMT</pubDate>
+    <lastBuildDate>Wed, 13 May 2026 18:57:46 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Blog</category>
@@ -20,7 +20,7 @@
       <link>https://joseluisgs.dev/posts/2026/2026-05-13-mi-setup-actualizado-2026.html</link>
       <guid>https://joseluisgs.dev/posts/2026/2026-05-13-mi-setup-actualizado-2026.html</guid>
       <source url="https://joseluisgs.dev/rss.xml">Mi Setup 2026: El equilibrio entre potencia, fluidez y docencia</source>
-      <description>Así ha evolucionado mi entorno de trabajo y personal para este 2026</description>
+      <description>De picar código en C# a pegar palos con la Yonex. Así ha evolucionado mi setup para este 2026</description>
       <category>Blog</category>
       <category>Personal</category>
       <category>Docencia</category>
