@@ -6,8 +6,8 @@
     <link>https://joseluisgs.dev/</link>
     <description>Web personal de José Luis González Sánchez - Profesor en DAW, DAM y formador certificado</description>
     <language>es-ES</language>
-    <pubDate>Wed, 13 May 2026 18:57:46 GMT</pubDate>
-    <lastBuildDate>Wed, 13 May 2026 18:57:46 GMT</lastBuildDate>
+    <pubDate>Wed, 13 May 2026 19:49:20 GMT</pubDate>
+    <lastBuildDate>Wed, 13 May 2026 19:49:20 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Blog</category>
@@ -87,6 +87,7 @@
 <li><strong>Docker:</strong> El estándar para aislar entornos. No se entiende el despliegue moderno sin contenedores.</li>
 <li><strong>GitHub &amp; Git:</strong> Mi segunda casa y la de mis alumnos. Si no está en GitHub, no existe.</li>
 <li><strong>GitKraken:</strong> Sigue siendo mi superpoder para visualizar ramas cuando la cosa se pone fea. Un clásico que nunca falta en mi barra de tareas.</li>
+<li><strong>VS Code:</strong> Para proyectos rápidos o cuando quiero algo más ligero, sigue siendo mi editor de cabecera.</li>
 </ul>
 <div class="hint-container info">
 <p class="hint-container-title">¿Has visto la nueva web?</p>
