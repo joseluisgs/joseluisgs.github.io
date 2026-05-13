@@ -3,7 +3,7 @@
   <id>https://joseluisgs.dev/</id>
   <title>José Luis González</title>
   <subtitle>Web personal de José Luis González Sánchez - Profesor en DAW, DAM y formador certificado</subtitle>
-  <updated>2026-05-13T19:55:15.758Z</updated>
+  <updated>2026-05-13T20:03:32.474Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://joseluisgs.dev/atom.xml"/>
   <link rel="alternate" href="https://joseluisgs.dev/"/>
@@ -19,7 +19,7 @@
     <title type="text">Mi Setup 2026: El equilibrio entre potencia, fluidez y docencia</title>
     <id>https://joseluisgs.dev/posts/2026/2026-05-13-mi-setup-actualizado-2026.html</id>
     <link href="https://joseluisgs.dev/posts/2026/2026-05-13-mi-setup-actualizado-2026.html"/>
-    <updated>2026-05-13T19:54:34.000Z</updated>
+    <updated>2026-05-13T20:02:40.000Z</updated>
     <summary type="html"><![CDATA[<p>Dicen que lo único constante es el cambio, y en nuestro sector, esa máxima se cumple a rajatabla. Si 2025 fue el año de la transición y el regreso a ciertos pilares, este 2026 es el año de la consolidación. He ajustado piezas, he sustituido herramientas que se habían vuelto pesadas y he buscado, por encima de todo, la fluidez. Tanto en el aula como en mi tiempo libre.</p>
 <p>Hoy quiero compartir con vosotros cómo ha quedado mi setup para este año. No es solo una lista de &quot;cacharros&quot;, es una declaración de intenciones sobre cómo entiendo el desarrollo y la docencia hoy.</p>
 ]]></summary>
@@ -78,7 +78,7 @@
 <h2>Ecosistema IA: De Copilot a NotebookLM</h2>
 <p>La IA sigue siendo un pilar fundamental en mi día a día, pero su uso ha evolucionado. <strong>GitHub Copilot</strong> sigue siendo el estándar en el editor, pero este año la gran sorpresa ha sido <strong>NotebookLM</strong>.</p>
 <p>Para el alumnado, <strong>NotebookLM</strong> se ha convertido en una herramienta de estudio revolucionaria. Les permite subir mis apuntes o el código de los proyectos y generar resúmenes, guías de estudio o incluso podcasts explicativos. Es una manera increíble de profundizar en los conceptos complejos de .NET o arquitecturas limpias de forma personalizada.</p>
-<p>Además, he volcado mucho esfuerzo en mi <strong><a href="https://www.youtube.com/@joseluisgs" target="_blank" rel="noopener noreferrer">canal de YouTube</a></strong>. He ido subiendo nuevos vídeos donde explico paso a paso todo este nuevo stack, desde cómo configurar Rider hasta el despliegue con Docker, integrando siempre consejos sobre cómo usar la IA de manera ética y productiva en el aula.</p>
+<p>Además, he volcado mucho esfuerzo en mi <strong><a href="https://www.youtube.com/@joseluisgs" target="_blank" rel="noopener noreferrer">canal de YouTube</a></strong>. He ido resumiendo los apuntes del repositorio en vídeos cortos y podcasts. Es una forma de llegar a al alumnado de una manera más dinámica y accesible, complementando el material escrito con explicaciones visuales y auditivas.</p>
 <h2>Los clásicos que no fallan</h2>
 <p>Hay cosas que no cambian porque funcionan demasiado bien:</p>
 <ul>
