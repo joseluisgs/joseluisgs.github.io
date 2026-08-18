@@ -6,6 +6,21 @@
   "description": "Web personal de José Luis González Sánchez - Profesor en DAW, DAM y formador certificado",
   "items": [
     {
+      "title": "Redis: La base de datos que no sabías que necesitabas",
+      "url": "https://joseluisgs.dev/posts/2026/2026-08-17-redis-base-datos-clave-valor.html",
+      "id": "https://joseluisgs.dev/posts/2026/2026-08-17-redis-base-datos-clave-valor.html",
+      "summary": "Por qué Twitter, Instagram, GitHub y Netflix usan Redis para resolver problemas que parecen imposibles",
+      "content_html": "<p>Tu servidor responde en 50 milisegundos. Tu usuario no notará la diferencia, ¿verdad?</p>\n<p>Pues resulta que sí. Cada 100ms de latencia extra en Amazon cuesta un 1% de ventas. Un segundo de retraso en Google reduce las búsquedas en un 20%. Y si tu aplicación tarda más de 3 segundos en cargar, el 53% de los usuarios abandonan.</p>\n<p>El problema no es tu código. No es tu base de datos. Es que estás consultando algo que podrías tener guardado a un paso.</p>\n<p>Ahí es donde entra Redis.</p>\n<!-- more -->\n<h2>¿Qué es Redis?</h2>\n<p>Redis es un almacén de datos en memoria. Eso es todo. No es una base de datos relacional, no es un sustituto de MariaDB, no es un sistema de archivos. Es una caja rápida donde guardar cosas que necesitas leer deprisa.</p>\n<p>La diferencia con una base de datos tradicional es brutal: Redis opera en milisegundos cuando MariaDB opera en decenas de milisegundos. No es mejor ni peor. Es otra cosa. Y cuando entiendes esa diferencia, empiezas a ver problemas que no sabías que tenías.</p>\n<p>| Operación | MariaDB (disco) | Redis (memoria) |\n|</p>\n",
+      "image": "https://i.imgur.com/zUutU5q.jpg",
+      "date_published": "2026-08-17T00:00:00.000Z",
+      "date_modified": "2026-08-18T11:02:23.000Z",
+      "authors": [],
+      "tags": [
+        "Blog",
+        "Docencia"
+      ]
+    },
+    {
       "title": "Arquitectura de Datos: Por qué elegir mal tu base de datos puede costarte el éxito",
       "url": "https://joseluisgs.dev/posts/2026/2026-07-20-arquitectura-datos-mal-enfoque.html",
       "id": "https://joseluisgs.dev/posts/2026/2026-07-20-arquitectura-datos-mal-enfoque.html",

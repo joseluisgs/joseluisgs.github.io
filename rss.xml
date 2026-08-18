@@ -6,8 +6,8 @@
     <link>https://joseluisgs.dev/</link>
     <description>Web personal de José Luis González Sánchez - Profesor en DAW, DAM y formador certificado</description>
     <language>es-ES</language>
-    <pubDate>Mon, 20 Jul 2026 11:05:17 GMT</pubDate>
-    <lastBuildDate>Mon, 20 Jul 2026 11:05:17 GMT</lastBuildDate>
+    <pubDate>Tue, 18 Aug 2026 11:02:56 GMT</pubDate>
+    <lastBuildDate>Tue, 18 Aug 2026 11:02:56 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Blog</category>
@@ -15,6 +15,28 @@
     <category>Personal</category>
     <category>Proyectos</category>
     <category>Investigacion</category>
+    <item>
+      <title>Redis: La base de datos que no sabías que necesitabas</title>
+      <link>https://joseluisgs.dev/posts/2026/2026-08-17-redis-base-datos-clave-valor.html</link>
+      <guid>https://joseluisgs.dev/posts/2026/2026-08-17-redis-base-datos-clave-valor.html</guid>
+      <source url="https://joseluisgs.dev/rss.xml">Redis: La base de datos que no sabías que necesitabas</source>
+      <description>Por qué Twitter, Instagram, GitHub y Netflix usan Redis para resolver problemas que parecen imposibles</description>
+      <category>Blog</category>
+      <category>Docencia</category>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>Tu servidor responde en 50 milisegundos. Tu usuario no notará la diferencia, ¿verdad?</p>
+<p>Pues resulta que sí. Cada 100ms de latencia extra en Amazon cuesta un 1% de ventas. Un segundo de retraso en Google reduce las búsquedas en un 20%. Y si tu aplicación tarda más de 3 segundos en cargar, el 53% de los usuarios abandonan.</p>
+<p>El problema no es tu código. No es tu base de datos. Es que estás consultando algo que podrías tener guardado a un paso.</p>
+<p>Ahí es donde entra Redis.</p>
+<!-- more -->
+<h2>¿Qué es Redis?</h2>
+<p>Redis es un almacén de datos en memoria. Eso es todo. No es una base de datos relacional, no es un sustituto de MariaDB, no es un sistema de archivos. Es una caja rápida donde guardar cosas que necesitas leer deprisa.</p>
+<p>La diferencia con una base de datos tradicional es brutal: Redis opera en milisegundos cuando MariaDB opera en decenas de milisegundos. No es mejor ni peor. Es otra cosa. Y cuando entiendes esa diferencia, empiezas a ver problemas que no sabías que tenías.</p>
+<p>| Operación | MariaDB (disco) | Redis (memoria) |
+|</p>
+]]></content:encoded>
+      <enclosure url="https://i.imgur.com/zUutU5q.jpg" type="image/jpeg"/>
+    </item>
     <item>
       <title>Arquitectura de Datos: Por qué elegir mal tu base de datos puede costarte el éxito</title>
       <link>https://joseluisgs.dev/posts/2026/2026-07-20-arquitectura-datos-mal-enfoque.html</link>
