@@ -1121,9 +1121,9 @@
       "tags": []
     },
     {
-      "title": "2021",
-      "url": "https://joseluisgs.dev/posts/2021/",
-      "id": "https://joseluisgs.dev/posts/2021/",
+      "title": "2022",
+      "url": "https://joseluisgs.dev/posts/2022/",
+      "id": "https://joseluisgs.dev/posts/2022/",
       "content_html": "",
       "authors": [],
       "tags": []
@@ -1137,9 +1137,9 @@
       "tags": []
     },
     {
-      "title": "2022",
-      "url": "https://joseluisgs.dev/posts/2022/",
-      "id": "https://joseluisgs.dev/posts/2022/",
+      "title": "2021",
+      "url": "https://joseluisgs.dev/posts/2021/",
+      "id": "https://joseluisgs.dev/posts/2021/",
       "content_html": "",
       "authors": [],
       "tags": []
@@ -1201,17 +1201,17 @@
       "tags": []
     },
     {
-      "title": "Proyectos Categoría",
-      "url": "https://joseluisgs.dev/category/proyectos/",
-      "id": "https://joseluisgs.dev/category/proyectos/",
+      "title": "Docencia Categoría",
+      "url": "https://joseluisgs.dev/category/docencia/",
+      "id": "https://joseluisgs.dev/category/docencia/",
       "content_html": "",
       "authors": [],
       "tags": []
     },
     {
-      "title": "Docencia Categoría",
-      "url": "https://joseluisgs.dev/category/docencia/",
-      "id": "https://joseluisgs.dev/category/docencia/",
+      "title": "Proyectos Categoría",
+      "url": "https://joseluisgs.dev/category/proyectos/",
+      "id": "https://joseluisgs.dev/category/proyectos/",
       "content_html": "",
       "authors": [],
       "tags": []
@@ -1241,9 +1241,57 @@
       "tags": []
     },
     {
+      "title": "Etiquetas: Docencia",
+      "url": "https://joseluisgs.dev/tag/docencia/",
+      "id": "https://joseluisgs.dev/tag/docencia/",
+      "content_html": "",
+      "authors": [],
+      "tags": []
+    },
+    {
       "title": "Etiquetas: Proyectos",
       "url": "https://joseluisgs.dev/tag/proyectos/",
       "id": "https://joseluisgs.dev/tag/proyectos/",
+      "content_html": "",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "Etiquetas: Kotlin",
+      "url": "https://joseluisgs.dev/tag/kotlin/",
+      "id": "https://joseluisgs.dev/tag/kotlin/",
+      "content_html": "",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "Etiquetas: IES Luis Vives",
+      "url": "https://joseluisgs.dev/tag/ies-luis-vives/",
+      "id": "https://joseluisgs.dev/tag/ies-luis-vives/",
+      "content_html": "",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "Etiquetas: Corrutinas",
+      "url": "https://joseluisgs.dev/tag/corrutinas/",
+      "id": "https://joseluisgs.dev/tag/corrutinas/",
+      "content_html": "",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "Etiquetas: Programacion-Reactiva",
+      "url": "https://joseluisgs.dev/tag/programacion-reactiva/",
+      "id": "https://joseluisgs.dev/tag/programacion-reactiva/",
+      "content_html": "",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "Etiquetas: Etica",
+      "url": "https://joseluisgs.dev/tag/etica/",
+      "id": "https://joseluisgs.dev/tag/etica/",
       "content_html": "",
       "authors": [],
       "tags": []
@@ -1276,54 +1324,6 @@
       "title": "Etiquetas: Competencias",
       "url": "https://joseluisgs.dev/tag/competencias/",
       "id": "https://joseluisgs.dev/tag/competencias/",
-      "content_html": "",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "Etiquetas: Tecnologias",
-      "url": "https://joseluisgs.dev/tag/tecnologias/",
-      "id": "https://joseluisgs.dev/tag/tecnologias/",
-      "content_html": "",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "Etiquetas: Docencia",
-      "url": "https://joseluisgs.dev/tag/docencia/",
-      "id": "https://joseluisgs.dev/tag/docencia/",
-      "content_html": "",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "Etiquetas: Google",
-      "url": "https://joseluisgs.dev/tag/google/",
-      "id": "https://joseluisgs.dev/tag/google/",
-      "content_html": "",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "Etiquetas: Formacion",
-      "url": "https://joseluisgs.dev/tag/formacion/",
-      "id": "https://joseluisgs.dev/tag/formacion/",
-      "content_html": "",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "Etiquetas: OpenWebinars",
-      "url": "https://joseluisgs.dev/tag/openwebinars/",
-      "id": "https://joseluisgs.dev/tag/openwebinars/",
-      "content_html": "",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "Etiquetas: Kotlin",
-      "url": "https://joseluisgs.dev/tag/kotlin/",
-      "id": "https://joseluisgs.dev/tag/kotlin/",
       "content_html": "",
       "authors": [],
       "tags": []
