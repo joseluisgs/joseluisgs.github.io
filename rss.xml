@@ -6,8 +6,8 @@
     <link>https://joseluisgs.dev/</link>
     <description>Web personal de José Luis González Sánchez - Profesor en DAW, DAM y formador certificado</description>
     <language>es-ES</language>
-    <pubDate>Tue, 01 Sep 2026 18:31:23 GMT</pubDate>
-    <lastBuildDate>Tue, 01 Sep 2026 18:31:23 GMT</lastBuildDate>
+    <pubDate>Tue, 01 Sep 2026 18:34:17 GMT</pubDate>
+    <lastBuildDate>Tue, 01 Sep 2026 18:34:17 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Blog</category>
@@ -4794,10 +4794,10 @@ conceptos de asincronía, trabajar en JS a nivel de DOM, fundamentos de HTML y C
       <source url="https://joseluisgs.dev/rss.xml">Info</source>
     </item>
     <item>
-      <title>2022</title>
-      <link>https://joseluisgs.dev/posts/2022/</link>
-      <guid>https://joseluisgs.dev/posts/2022/</guid>
-      <source url="https://joseluisgs.dev/rss.xml">2022</source>
+      <title>2021</title>
+      <link>https://joseluisgs.dev/posts/2021/</link>
+      <guid>https://joseluisgs.dev/posts/2021/</guid>
+      <source url="https://joseluisgs.dev/rss.xml">2021</source>
     </item>
     <item>
       <title>Posts</title>
@@ -4806,10 +4806,10 @@ conceptos de asincronía, trabajar en JS a nivel de DOM, fundamentos de HTML y C
       <source url="https://joseluisgs.dev/rss.xml">Posts</source>
     </item>
     <item>
-      <title>2021</title>
-      <link>https://joseluisgs.dev/posts/2021/</link>
-      <guid>https://joseluisgs.dev/posts/2021/</guid>
-      <source url="https://joseluisgs.dev/rss.xml">2021</source>
+      <title>2022</title>
+      <link>https://joseluisgs.dev/posts/2022/</link>
+      <guid>https://joseluisgs.dev/posts/2022/</guid>
+      <source url="https://joseluisgs.dev/rss.xml">2022</source>
     </item>
     <item>
       <title>2023</title>
@@ -4854,16 +4854,16 @@ conceptos de asincronía, trabajar en JS a nivel de DOM, fundamentos de HTML y C
       <source url="https://joseluisgs.dev/rss.xml">Blog Categoría</source>
     </item>
     <item>
-      <title>Docencia Categoría</title>
-      <link>https://joseluisgs.dev/category/docencia/</link>
-      <guid>https://joseluisgs.dev/category/docencia/</guid>
-      <source url="https://joseluisgs.dev/rss.xml">Docencia Categoría</source>
-    </item>
-    <item>
       <title>Proyectos Categoría</title>
       <link>https://joseluisgs.dev/category/proyectos/</link>
       <guid>https://joseluisgs.dev/category/proyectos/</guid>
       <source url="https://joseluisgs.dev/rss.xml">Proyectos Categoría</source>
+    </item>
+    <item>
+      <title>Docencia Categoría</title>
+      <link>https://joseluisgs.dev/category/docencia/</link>
+      <guid>https://joseluisgs.dev/category/docencia/</guid>
+      <source url="https://joseluisgs.dev/rss.xml">Docencia Categoría</source>
     </item>
     <item>
       <title>Investigacion Categoría</title>
@@ -4884,46 +4884,10 @@ conceptos de asincronía, trabajar en JS a nivel de DOM, fundamentos de HTML y C
       <source url="https://joseluisgs.dev/rss.xml">Etiquetas: Personal</source>
     </item>
     <item>
-      <title>Etiquetas: Docencia</title>
-      <link>https://joseluisgs.dev/tag/docencia/</link>
-      <guid>https://joseluisgs.dev/tag/docencia/</guid>
-      <source url="https://joseluisgs.dev/rss.xml">Etiquetas: Docencia</source>
-    </item>
-    <item>
       <title>Etiquetas: Proyectos</title>
       <link>https://joseluisgs.dev/tag/proyectos/</link>
       <guid>https://joseluisgs.dev/tag/proyectos/</guid>
       <source url="https://joseluisgs.dev/rss.xml">Etiquetas: Proyectos</source>
-    </item>
-    <item>
-      <title>Etiquetas: Kotlin</title>
-      <link>https://joseluisgs.dev/tag/kotlin/</link>
-      <guid>https://joseluisgs.dev/tag/kotlin/</guid>
-      <source url="https://joseluisgs.dev/rss.xml">Etiquetas: Kotlin</source>
-    </item>
-    <item>
-      <title>Etiquetas: IES Luis Vives</title>
-      <link>https://joseluisgs.dev/tag/ies-luis-vives/</link>
-      <guid>https://joseluisgs.dev/tag/ies-luis-vives/</guid>
-      <source url="https://joseluisgs.dev/rss.xml">Etiquetas: IES Luis Vives</source>
-    </item>
-    <item>
-      <title>Etiquetas: Corrutinas</title>
-      <link>https://joseluisgs.dev/tag/corrutinas/</link>
-      <guid>https://joseluisgs.dev/tag/corrutinas/</guid>
-      <source url="https://joseluisgs.dev/rss.xml">Etiquetas: Corrutinas</source>
-    </item>
-    <item>
-      <title>Etiquetas: Programacion-Reactiva</title>
-      <link>https://joseluisgs.dev/tag/programacion-reactiva/</link>
-      <guid>https://joseluisgs.dev/tag/programacion-reactiva/</guid>
-      <source url="https://joseluisgs.dev/rss.xml">Etiquetas: Programacion-Reactiva</source>
-    </item>
-    <item>
-      <title>Etiquetas: Etica</title>
-      <link>https://joseluisgs.dev/tag/etica/</link>
-      <guid>https://joseluisgs.dev/tag/etica/</guid>
-      <source url="https://joseluisgs.dev/rss.xml">Etiquetas: Etica</source>
     </item>
     <item>
       <title>Etiquetas: Vue.js</title>
@@ -4948,6 +4912,42 @@ conceptos de asincronía, trabajar en JS a nivel de DOM, fundamentos de HTML y C
       <link>https://joseluisgs.dev/tag/competencias/</link>
       <guid>https://joseluisgs.dev/tag/competencias/</guid>
       <source url="https://joseluisgs.dev/rss.xml">Etiquetas: Competencias</source>
+    </item>
+    <item>
+      <title>Etiquetas: Tecnologias</title>
+      <link>https://joseluisgs.dev/tag/tecnologias/</link>
+      <guid>https://joseluisgs.dev/tag/tecnologias/</guid>
+      <source url="https://joseluisgs.dev/rss.xml">Etiquetas: Tecnologias</source>
+    </item>
+    <item>
+      <title>Etiquetas: Docencia</title>
+      <link>https://joseluisgs.dev/tag/docencia/</link>
+      <guid>https://joseluisgs.dev/tag/docencia/</guid>
+      <source url="https://joseluisgs.dev/rss.xml">Etiquetas: Docencia</source>
+    </item>
+    <item>
+      <title>Etiquetas: Google</title>
+      <link>https://joseluisgs.dev/tag/google/</link>
+      <guid>https://joseluisgs.dev/tag/google/</guid>
+      <source url="https://joseluisgs.dev/rss.xml">Etiquetas: Google</source>
+    </item>
+    <item>
+      <title>Etiquetas: Formacion</title>
+      <link>https://joseluisgs.dev/tag/formacion/</link>
+      <guid>https://joseluisgs.dev/tag/formacion/</guid>
+      <source url="https://joseluisgs.dev/rss.xml">Etiquetas: Formacion</source>
+    </item>
+    <item>
+      <title>Etiquetas: OpenWebinars</title>
+      <link>https://joseluisgs.dev/tag/openwebinars/</link>
+      <guid>https://joseluisgs.dev/tag/openwebinars/</guid>
+      <source url="https://joseluisgs.dev/rss.xml">Etiquetas: OpenWebinars</source>
+    </item>
+    <item>
+      <title>Etiquetas: Kotlin</title>
+      <link>https://joseluisgs.dev/tag/kotlin/</link>
+      <guid>https://joseluisgs.dev/tag/kotlin/</guid>
+      <source url="https://joseluisgs.dev/rss.xml">Etiquetas: Kotlin</source>
     </item>
   </channel>
 </rss>
