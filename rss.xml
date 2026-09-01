@@ -6,8 +6,8 @@
     <link>https://joseluisgs.dev/</link>
     <description>Web personal de José Luis González Sánchez - Profesor en DAW, DAM y formador certificado</description>
     <language>es-ES</language>
-    <pubDate>Tue, 01 Sep 2026 18:26:11 GMT</pubDate>
-    <lastBuildDate>Tue, 01 Sep 2026 18:26:11 GMT</lastBuildDate>
+    <pubDate>Tue, 01 Sep 2026 18:29:33 GMT</pubDate>
+    <lastBuildDate>Tue, 01 Sep 2026 18:29:33 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Blog</category>
@@ -4806,16 +4806,16 @@ conceptos de asincronía, trabajar en JS a nivel de DOM, fundamentos de HTML y C
       <source url="https://joseluisgs.dev/rss.xml">Posts</source>
     </item>
     <item>
-      <title>2023</title>
-      <link>https://joseluisgs.dev/posts/2023/</link>
-      <guid>https://joseluisgs.dev/posts/2023/</guid>
-      <source url="https://joseluisgs.dev/rss.xml">2023</source>
-    </item>
-    <item>
       <title>2021</title>
       <link>https://joseluisgs.dev/posts/2021/</link>
       <guid>https://joseluisgs.dev/posts/2021/</guid>
       <source url="https://joseluisgs.dev/rss.xml">2021</source>
+    </item>
+    <item>
+      <title>2023</title>
+      <link>https://joseluisgs.dev/posts/2023/</link>
+      <guid>https://joseluisgs.dev/posts/2023/</guid>
+      <source url="https://joseluisgs.dev/rss.xml">2023</source>
     </item>
     <item>
       <title>2024</title>
@@ -4926,28 +4926,28 @@ conceptos de asincronía, trabajar en JS a nivel de DOM, fundamentos de HTML y C
       <source url="https://joseluisgs.dev/rss.xml">Etiquetas: Etica</source>
     </item>
     <item>
-      <title>Etiquetas: Ktor</title>
-      <link>https://joseluisgs.dev/tag/ktor/</link>
-      <guid>https://joseluisgs.dev/tag/ktor/</guid>
-      <source url="https://joseluisgs.dev/rss.xml">Etiquetas: Ktor</source>
-    </item>
-    <item>
-      <title>Etiquetas: Podcast</title>
-      <link>https://joseluisgs.dev/tag/podcast/</link>
-      <guid>https://joseluisgs.dev/tag/podcast/</guid>
-      <source url="https://joseluisgs.dev/rss.xml">Etiquetas: Podcast</source>
-    </item>
-    <item>
-      <title>Etiquetas: Disco Duro de Roer</title>
-      <link>https://joseluisgs.dev/tag/disco-duro-de-roer/</link>
-      <guid>https://joseluisgs.dev/tag/disco-duro-de-roer/</guid>
-      <source url="https://joseluisgs.dev/rss.xml">Etiquetas: Disco Duro de Roer</source>
-    </item>
-    <item>
       <title>Etiquetas: Vue.js</title>
       <link>https://joseluisgs.dev/tag/vue.js/</link>
       <guid>https://joseluisgs.dev/tag/vue.js/</guid>
       <source url="https://joseluisgs.dev/rss.xml">Etiquetas: Vue.js</source>
+    </item>
+    <item>
+      <title>Etiquetas: VuePress</title>
+      <link>https://joseluisgs.dev/tag/vuepress/</link>
+      <guid>https://joseluisgs.dev/tag/vuepress/</guid>
+      <source url="https://joseluisgs.dev/rss.xml">Etiquetas: VuePress</source>
+    </item>
+    <item>
+      <title>Etiquetas: Profesional</title>
+      <link>https://joseluisgs.dev/tag/profesional/</link>
+      <guid>https://joseluisgs.dev/tag/profesional/</guid>
+      <source url="https://joseluisgs.dev/rss.xml">Etiquetas: Profesional</source>
+    </item>
+    <item>
+      <title>Etiquetas: Competencias</title>
+      <link>https://joseluisgs.dev/tag/competencias/</link>
+      <guid>https://joseluisgs.dev/tag/competencias/</guid>
+      <source url="https://joseluisgs.dev/rss.xml">Etiquetas: Competencias</source>
     </item>
   </channel>
 </rss>
