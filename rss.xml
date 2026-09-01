@@ -6,16 +6,14 @@
     <link>https://joseluisgs.dev/</link>
     <description>Web personal de José Luis González Sánchez - Profesor en DAW, DAM y formador certificado</description>
     <language>es-ES</language>
-    <pubDate>Tue, 01 Sep 2026 18:37:58 GMT</pubDate>
-    <lastBuildDate>Tue, 01 Sep 2026 18:37:58 GMT</lastBuildDate>
+    <pubDate>Tue, 01 Sep 2026 18:41:53 GMT</pubDate>
+    <lastBuildDate>Tue, 01 Sep 2026 18:41:53 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Blog</category>
     <category>Docencia</category>
     <category>Personal</category>
     <category>Proyectos</category>
-    <category>Legal</category>
-    <category>Investigación</category>
     <category>Investigacion</category>
     <item>
       <title>Netflix: Lo que pasa cuando pulsas &amp;apos;Reproducir&amp;apos;</title>
@@ -394,20 +392,6 @@
 |</p>
 ]]></content:encoded>
       <enclosure url="https://i.imgur.com/jxF8U15.png" type="image/png"/>
-    </item>
-    <item>
-      <title>Licencia de Uso</title>
-      <link>https://joseluisgs.dev/info/license.html</link>
-      <guid>https://joseluisgs.dev/info/license.html</guid>
-      <source url="https://joseluisgs.dev/rss.xml">Licencia de Uso</source>
-      <description>Información sobre la licencia de uso de los contenidos, proyectos y código compartidos.</description>
-      <category>Legal</category>
-      <pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2>Licencia de uso</h2>
-<p>Este repositorio y todo su contenido está licenciado bajo licencia <strong>Creative Commons</strong>, si desea saber más,vee la <a href="https://joseluisgs.dev/info/license/" target="_blank" rel="noopener noreferrer">LICENSE</a>. Por favor si compartes, usas o modificas este proyecto cita a su autor, y usa las mismas condiciones para su uso docente, formativo o educativo y no comercial.</p>
-<p><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"></a><br><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">JoseLuisGS</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://joseluisgs.dev/" property="cc:attributionName" rel="cc:attributionURL">José Luis González Sánchez</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional License</a>.<br>Creado a partir de la obra en <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/joseluisgs" rel="dct:source">https://github.com/joseluisgs</a>.</p>
-]]></content:encoded>
-      <enclosure url="https://i0.wp.com/www.mesaporlahospitalidad.com/wp-content/uploads/2015/09/MH-Licencia-Creative-Commons-de-web-Mesa-por-la-Hospitalidad.png" type="image/png"/>
     </item>
     <item>
       <title>Nueva version de mi web</title>
@@ -932,119 +916,6 @@
       <enclosure url="https://i.imgur.com/8iR6GEl.png" type="image/png"/>
     </item>
     <item>
-      <title>Proyectos</title>
-      <link>https://joseluisgs.dev/info/proyectos.html</link>
-      <guid>https://joseluisgs.dev/info/proyectos.html</guid>
-      <source url="https://joseluisgs.dev/rss.xml">Proyectos</source>
-      <description>Te presento algunos de mis proyectos en los que trabajo</description>
-      <category>Proyectos</category>
-      <pubDate>Fri, 17 Apr 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<p>En este apartado conocerás los proyectos que voy realizando, ya sea para fines docentes, personales o profesionales.</p>
-<!-- more -->
-<h2>Repositorio</h2>
-<p>Actualmente, todos los <a href="/categories/Proyectos/" target="_blank">proyectos</a> que voy realizando los tienes disponibles en mi repositorio personal de <a href="https://github.com/joseluisgs" target="_blank" rel="noopener noreferrer">GitHub</a>.</p>
-<p>Te recomiendo que, si quieres estar al tanto de todo, me sigas o pongas una estrella en aquellos que te interesen. Casi todos tienen licencia libre; por lo tanto, úsalos como quieras (aunque una cita, estrella o agradecimiento si te resultan útiles siempre se agradece 🙂).</p>
-<h2>Proyectos como apuntes y recursos didácticos</h2>
-<p>Estos proyectos nacen principalmente de mi labor docente: <strong>apuntes de clase</strong> extensamente comentados y legibles, pensados para que puedas entender la arquitectura y la lógica sin ejecutar el código. <strong>No intentan ser código de producción</strong>. Ya seas un <strong>alumno</strong> o <strong>docente</strong>, <strong>si te ayuda, ¡una ⭐️ es la mejor forma de apoyarlo!</strong></p>
-<p>En este repositorio subo proyectos que aplico a temas personales/profesionales o de clase 🛠. Generalmente están sobrecomentados y, a veces, no realizados de la manera más óptima, porque son para fines didácticos (usados en clase o en mis tutoriales). El objetivo es que sepas entenderlos con solo leerlos sin ejecutarlos... o eso intento. Si te gusta algo de aquí, déjame una estrella, sígueme y, sobre todo, ¡dame ideas para mejorar! 💪</p>
-<h2>Tecnologías</h2>
-<div style="display: flex; justify-content: center; width: 100%;">
-<table style="margin: 0 auto; width: auto;">
-  <tbody>
-  <tr>
-    <td align="center"><b>🚀 Desarrollo Backend</b><br>
-      <img src="https://raw.githubusercontent.com/joseluisgs/joseluisgs/master/images/tech-icons/kotlin.svg" height="32" title="Kotlin">
-      <img src="https://raw.githubusercontent.com/joseluisgs/joseluisgs/master/images/tech-icons/csharp.svg" height="32" title="C#">
-      <img src="https://raw.githubusercontent.com/joseluisgs/joseluisgs/master/images/tech-icons/dotnetcore.svg" height="32" title=".NET Core">
-      <img src="https://raw.githubusercontent.com/joseluisgs/joseluisgs/master/images/tech-icons/aspnetcore.png" height="32" title="ASP.NET Core">
-    </td>
-    <td align="center"><b>🌐 Desarrollo Frontend</b><br>
-      <img src="https://raw.githubusercontent.com/joseluisgs/joseluisgs/master/images/tech-icons/vuejs.svg" height="32" title="Vue.js">
-      <img src="https://raw.githubusercontent.com/joseluisgs/joseluisgs/master/images/tech-icons/typescript.svg" height="32" title="TypeScript">
-      <img src="https://raw.githubusercontent.com/joseluisgs/joseluisgs/master/images/tech-icons/tailwindcss.svg" height="32" title="Tailwind CSS">
-      <img src="https://raw.githubusercontent.com/joseluisgs/joseluisgs/master/images/tech-icons/blazor.svg" height="32" title="Blazor">
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🗄️ Infraestructura</b><br>
-      <img src="https://raw.githubusercontent.com/joseluisgs/joseluisgs/master/images/tech-icons/postgresql.svg" height="32" title="PostgreSQL">
-      <img src="https://raw.githubusercontent.com/joseluisgs/joseluisgs/master/images/tech-icons/mongodb.svg" height="32" title="MongoDB">
-      <img src="https://raw.githubusercontent.com/joseluisgs/joseluisgs/master/images/tech-icons/redis.svg" height="32" title="Redis">
-      <img src="https://raw.githubusercontent.com/joseluisgs/joseluisgs/master/images/tech-icons/docker.svg" height="32" title="Docker">
-    </td>
-    <td align="center"><b>🛠️ Productividad</b><br>
-      <img src="https://raw.githubusercontent.com/joseluisgs/joseluisgs/master/images/tech-icons/github.svg" height="32" title="GitHub">
-      <img src="https://raw.githubusercontent.com/joseluisgs/joseluisgs/master/images/tech-icons/jetbrains.svg" height="32" title="JetBrains">
-      <img src="https://raw.githubusercontent.com/joseluisgs/joseluisgs/master/images/tech-icons/vscode.svg" height="32" title="VS Code">
-    </td>
-  </tr>
-  </tbody>
-</table>
-</div>
-<h2>Destacados</h2>
-<p>A continuación muestro proyectos destacados en estos momentos, ya sea porque se están usando a nivel docente o porque trabajo actualmente en ellos.</p>
-<div class="hint-container tip">
-<p class="hint-container-title">Repositorio GitHub</p>
-<p><a href="https://github.com/joseluisgs" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-github"></i> JoseluisGS</a>.</p>
-</div>
-<h2>Mi Actividad</h2>
-<p>Si quieres estar al tanto de todo lo que hago, te recomiendo seguirme en mis redes sociales, pero sobre todo en mi <a href="https://github.com/joseluisgs" target="_blank" rel="noopener noreferrer">GitHub</a> donde subo todo lo que hago, tanto proyectos personales como profesionales o docentes.</p>
-<div style="display: flex; justify-content: center; margin: 1rem 0;">
-  <table style="margin: 0 auto; width: auto;">
-    <tbody>
-    <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/joseluisgs/joseluisgs/output/0-profile-details.svg" alt="Profile Details" style="height: 120px; width: auto;">
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/joseluisgs/joseluisgs/output/3-stats.svg" alt="Profile Stats" style="height: 120px; width: auto;">
-      </td>
-    </tr>
-    </tbody>
-  </table>
-</div>
-<div style="text-align: center; margin: 1rem 0;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joseluisgs/joseluisgs/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joseluisgs/joseluisgs/output/pacman-contribution-graph.svg">
-    <img alt="pacman" src="https://raw.githubusercontent.com/joseluisgs/joseluisgs/output/pacman-contribution-graph.svg" style="width: auto;">
-  </picture>
-</div>
-]]></content:encoded>
-      <enclosure url="https://miro.medium.com/max/2676/1*YueCwWOQuh-yqtujQrp5uA.png" type="image/png"/>
-    </item>
-    <item>
-      <title>Actividad Investigadora</title>
-      <link>https://joseluisgs.dev/info/investigacion.html</link>
-      <guid>https://joseluisgs.dev/info/investigacion.html</guid>
-      <source url="https://joseluisgs.dev/rss.xml">Actividad Investigadora</source>
-      <description>Conoce mi actividad investigadora, tesis doctoral sobre jugabilidad y experiencia del jugador</description>
-      <category>Personal</category>
-      <category>Investigación</category>
-      <pubDate>Sun, 17 Apr 2022 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<p>Siempre me he considerado una persona inquieta y con gran curiosidad, por lo que la investigación en tecnologías y metodologías forma ya parte de mi forma de ser. Siempre me ha gustado una investigación aplicada y que pueda ayudar a los demás.</p>
-<!-- more -->
-<h2>Perfil investigador</h2>
-<p>A nivel investigador, mi especialidad es el campo de la <a href="https://es.wikipedia.org/wiki/Interacci%C3%B3n_persona-computadora" target="_blank" rel="noopener noreferrer">Interacción Persona-Ordenador</a> y el desarrollo de software, siempre centrados en la calidad y la mejora de la experiencia interactiva. Además, he profundizado en sistemas interactivos de ocio electrónico. Me gusta experimentar con nuevos dispositivos y tecnologías, y aplicarlas a casos concretos donde he desarrollado proyectos para distintos organismos y empresas.</p>
-<h2>Tesis Doctoral 👨‍🎓</h2>
-<p>Uno de mis principales logros personales fue mi <strong>tesis doctoral</strong>. En ella abordo y formalizo el concepto de <strong>jugabilidad</strong> y cómo caracterizar la experiencia del jugador en sistemas interactivos de ocio electrónico (videojuegos y derivados).</p>
-<p>Mi tesis fue dirigida por el <a href="https://lsi.ugr.es/lsi/fgutierr" target="_blank" rel="noopener noreferrer">Dr. Francisco Luis Gutiérrez Vela</a> y presentada y realizada en la <a href="https://digibug.ugr.es/handle/10481/5671" target="_blank" rel="noopener noreferrer">Universidad de Granada</a> en 2010, calificada con <strong>«Sobresaliente <em>cum laude</em>»</strong>.</p>
-<h3>Objetivos</h3>
-<p>La jugabilidad es un concepto abstracto y difícil de definir debido a que posee características tanto funcionales, inherentes a todo sistema interactivo, como no funcionales, relacionadas con las experiencias que obtiene el jugador al jugar. Así pues, definimos la jugabilidad como el conjunto de propiedades que describen la experiencia del jugador ante un sistema de juego determinado, cuyo principal objetivo es divertir y entretener «de forma satisfactoria y creíble», ya sea solo o en compañía.</p>
-<h3>Impacto</h3>
-<p>Esta tesis sirvió para formalizar, por primera vez, el concepto de jugabilidad, creando un modelo del mismo con sus atributos y propiedades, así como una serie de facetas para su evaluación y análisis.</p>
-<p>Las definiciones y resultados de este trabajo se han usado para establecer el concepto de jugabilidad en la Wikipedia:</p>
-<ul>
-<li><a href="https://es.wikipedia.org/wiki/Jugabilidad" target="_blank" rel="noopener noreferrer">Jugabilidad en la Wikipedia en español</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Gameplay#Playability" target="_blank" rel="noopener noreferrer">Playability en la Wikipedia en inglés</a></li>
-</ul>
-<h3>Descarga</h3>
-<p>Puedes descargar la tesis doctoral en distintos formatos desde el <a href="https://digibug.ugr.es/handle/10481/5671" target="_blank" rel="noopener noreferrer">repositorio de la Universidad de Granada</a> bajo licencia Creative Commons.</p>
-<figure><a href="https://digibug.ugr.es/bitstream/handle/10481/5671/18931200.pdf?sequence=1&amp;isAllowed=y" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/25Q7hYg.png" alt="Tesis Doctoral" tabindex="0" loading="lazy"></a><figcaption>Tesis Doctoral</figcaption></figure>
-]]></content:encoded>
-      <enclosure url="https://i.imgur.com/lafghys.png" type="image/png"/>
-    </item>
-    <item>
       <title>José Luis González, PhD.</title>
       <link>https://joseluisgs.dev/info/personal.html</link>
       <guid>https://joseluisgs.dev/info/personal.html</guid>
@@ -1102,11 +973,17 @@
       <enclosure url="https://joseluisgs.dev/img/avatar.webp" type="image/webp"/>
     </item>
     <item>
-      <title>Home</title>
-      <link>https://joseluisgs.dev/</link>
-      <guid>https://joseluisgs.dev/</guid>
-      <source url="https://joseluisgs.dev/rss.xml">Home</source>
-      <pubDate>Thu, 16 Apr 2026 07:10:49 GMT</pubDate>
+      <title></title>
+      <link>https://joseluisgs.dev/404.html</link>
+      <guid>https://joseluisgs.dev/404.html</guid>
+      <source url="https://joseluisgs.dev/rss.xml"></source>
+      <description>404 - Not Found ← Volver al inicio</description>
+      <pubDate>Thu, 16 Apr 2026 15:40:25 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="vp-404-content">
+  <img src="/img/404.gif" alt="404 - Not Found">
+  <a href="/" class="vp-404-btn">← Volver al inicio</a>
+</div>
+]]></content:encoded>
     </item>
     <item>
       <title>Regreso a .NET en DAW. 20 razones para el cambio</title>
@@ -4582,40 +4459,6 @@ conceptos de asincronía, trabajar en JS a nivel de DOM, fundamentos de HTML y C
       <enclosure url="https://www.x-cart.com/wp-content/uploads/2017/09/how-to-become-a-web-developer.png" type="image/png"/>
     </item>
     <item>
-      <title>Aviso Legal y Cookies</title>
-      <link>https://joseluisgs.dev/info/legal.html</link>
-      <guid>https://joseluisgs.dev/info/legal.html</guid>
-      <source url="https://joseluisgs.dev/rss.xml">Aviso Legal y Cookies</source>
-      <description>Información legal, propiedad intelectual y política de cookies de la web de José Luis González Sánchez</description>
-      <category>Legal</category>
-      <pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[
-<p>En este espacio encontrarás toda la información relativa a los términos y condiciones legales que definen las relaciones entre los usuarios y yo, como responsable de esta web.</p>
-<!-- more -->
-<h2>1. Información General y Titularidad</h2>
-<p>En cumplimiento de lo establecido en la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y de Comercio Electrónico (LSSI-CE), se informa que el titular de este sitio web es <strong>José Luis González Sánchez</strong>.</p>
-<ul>
-<li><strong>Finalidad:</strong> Blog personal sobre tecnología, docencia e investigación.</li>
-<li><strong>Contacto:</strong> Puedes contactar conmigo a través de mis redes sociales indicadas en el pie de página.</li>
-</ul>
-<h2>2. Propiedad Intelectual e Industrial</h2>
-<p>Todos los contenidos de este sitio (textos, imágenes, código fuente, diseño, etc.) son propiedad de José Luis González Sánchez o de sus respectivos autores.</p>
-<ul>
-<li><strong>Licencia de Contenido:</strong> Salvo que se indique lo contrario, el contenido de este blog se publica bajo una licencia <strong><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es" target="_blank" rel="noopener noreferrer">Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)</a></strong>.</li>
-<li><strong>Software:</strong> El código de ejemplo compartido en los posts suele estar bajo licencia MIT o Apache 2.0, especificado en cada caso.</li>
-</ul>
-<h2>3. Política de Cookies</h2>
-<p>Este sitio web utiliza cookies para mejorar la experiencia del usuario y analizar el tráfico de forma anónima.</p>
-<h3>¿Qué son las cookies?</h3>
-<p>Una cookie es un pequeño fragmento de texto que los sitios web envían al navegador para recordar información sobre tu visita, facilitando tu próxima navegación y haciendo que el sitio te resulte más útil.</p>
-<h3>Tabla técnica de cookies y almacenamiento local</h3>
-<p>Utilizamos los siguientes elementos para el correcto funcionamiento del sitio:</p>
-<p>| Nombre | Proveedor | Tipo | Finalidad | Caducidad |
-| :</p>
-]]></content:encoded>
-      <enclosure url="https://i.imgur.com/fVhIXnB.png" type="image/png"/>
-    </item>
-    <item>
       <title>¡Hola mundo!</title>
       <link>https://joseluisgs.dev/posts/2021/2021-01-12-hola-mundo.html</link>
       <guid>https://joseluisgs.dev/posts/2021/2021-01-12-hola-mundo.html</guid>
@@ -4644,310 +4487,6 @@ conceptos de asincronía, trabajar en JS a nivel de DOM, fundamentos de HTML y C
 <p>Espero que poco a poco pueda servir a alguien más. Aún no está todo hecho, pero poco a poco lo estará 💪.</p>
 ]]></content:encoded>
       <enclosure url="http://elfarolillorojo.es/wp-content/uploads/2020/08/hello-world-1024x544.png" type="image/png"/>
-    </item>
-    <item>
-      <title>Actividad Docente</title>
-      <link>https://joseluisgs.dev/info/docencia.html</link>
-      <guid>https://joseluisgs.dev/info/docencia.html</guid>
-      <source url="https://joseluisgs.dev/rss.xml">Actividad Docente</source>
-      <description>Conoce mi actividad docente y formativa</description>
-      <category>Personal</category>
-      <category>Docencia</category>
-      <pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<p>En este apartado resumiré brevemente mi actividad docente y con ello sepas cómo puedo ayudarte en tu formación si se da el caso. No está todo, pero creo que así puedes conocerme un poco más con lo más relevante.</p>
-<!-- more -->
-<h2>Actualidad</h2>
-<p>Soy profesor funcionario de carrera de Secundaria en la especialidad de Informática y doctor en Informática en Desarrollo de Software. Además, soy formador oficial en tecnologías Kotlin certificado por JetBrains, GitHub Campus Advisor.</p>
-<h3>Mi centro</h3>
-<p>Mi actual centro, donde imparto docencia desde el curso 2021/2022, es el <a href="http://iesluisvives.es/" target="_blank" rel="noopener noreferrer">IES Luis Vives</a>, en Leganés (Madrid), donde realizo además otras funciones para el centro y el departamento de Informática.</p>
-<div class="vp-card-container" style="display: flex; justify-content: center;">
-</div>
-<h3>Docencia actual en el centro</h3>
-<p>En estos momentos imparto docencia en Ciclos Formativos y Cursos de Especialización de Formación Profesional.</p>
-<p>Actualmente, mi labor docente se desarrolla en el ciclo de Grado Superior en Desarrollo de Aplicaciones Web (DAW), donde soy responsable de los siguientes módulos profesionales:</p>
-<ul>
-<li>Programación: 1.º curso de <a href="https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-web.html" target="_blank" rel="noopener noreferrer">Técnico Superior en Desarrollo de Aplicaciones Web</a>.</li>
-<li>Entornos de Desarrollo: 1.º curso de <a href="https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-web.html" target="_blank" rel="noopener noreferrer">Técnico Superior en Desarrollo de Aplicaciones Web</a>.</li>
-<li>Desarrollo Web en Entornos Servidor: 2.º curso de <a href="https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-web.html" target="_blank" rel="noopener noreferrer">Técnico Superior en Desarrollo de Aplicaciones Web</a>.</li>
-<li>Despliegue de Aplicaciones Web: 2.º curso de <a href="https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-web.html" target="_blank" rel="noopener noreferrer">Técnico Superior en Desarrollo de Aplicaciones Web</a>.</li>
-</ul>
-<p>Además, suelo impartir o he impartido en otras ocasiones:</p>
-<ul>
-<li>Programación de 1.º de DAM/DAW.</li>
-<li>Entornos de Desarrollo de 1.º de DAM/DAW.</li>
-<li>Programación Multimedia y Dispositivos Móviles de 2.º de DAM.</li>
-<li>Programación de Servicios y Procesos de 2.º de DAM.</li>
-<li>Acceso a Datos de 2.º de DAM.</li>
-<li>Desarrollo Web en Entorno Servidor de 2.º de DAW.</li>
-<li>Despliegue de Aplicaciones Web de 2.º de DAW.</li>
-<li>Servicios de Red e Internet de 2.º de ASIR.</li>
-<li>Implantación de Aplicaciones Web de 2.º de ASIR.</li>
-</ul>
-<h3>Docencia en Másteres y Doctorado</h3>
-<p>Colaboro con el <a href="https://postgradoux.com/" target="_blank" rel="noopener noreferrer">Postgrado Online en Usabilidad, UX y Diseño de Interacción</a>. Imparto la asignatura de Gamificación junto a <a href="https://lsi.ugr.es/lsi/fgutierr" target="_blank" rel="noopener noreferrer">Dr. Francisco Luis Gutiérrez Vela</a>, englobada dentro del bloque de <a href="https://postgradoux.com/temario/#Asignatura%20U1" target="_blank" rel="noopener noreferrer">Diseño de interfaces usables</a>.</p>
-<h3>Docencia en Formación del profesorado</h3>
-<p>Imparto formación a profesorado de Secundaria y Formación del Profesorado en temas relacionados con el desarrollo de software y sistemas interactivos.</p>
-<ul>
-<li><a href="https://innovacionyformacion.educa.madrid.org/node/85495" target="_blank" rel="noopener noreferrer">Desarrollo Web en entorno Servidor con SpringBoot. IFC03CM22_23 (A-0046)</a>. Curso de Formación en desarrollo de Aplicaciones Web con SpringBoot. ISMIE Instituto Superior Madrileño de Innovación Educativa. Programas de Innovación y Formación del Profesorado. Curso 2022/2023.</li>
-<li><a href="https://innovacionyformacion.educa.madrid.org/node/85493" target="_blank" rel="noopener noreferrer">Desarrollo Web en entorno Cliente con Vue.js. IFC02CM22_23 (A-0046)</a>. Curso de Formación en desarrollo de Aplicaciones Web con Vue.js. ISMIE Instituto Superior Madrileño de Innovación Educativa. Programas de Innovación y Formación del Profesorado. Curso 2022/2023.</li>
-<li>FP-NextGen Comunidad de Madrid. Elaborador de contenidos del módulo de <a href="https://github.com/joseluisgs/FP-NextGen-AccesoDatos" target="_blank" rel="noopener noreferrer">Acceso a Datos</a> y <a href="https://github.com/joseluisgs/springboot-profesores-madrid-2022-2023" target="_blank" rel="noopener noreferrer">Programación de Servicios y Procesos</a>. Corrector de Programación Multimedia y Dispositivos Móviles y Entornos de Desarrollo. Curso 2021/2022-2022/2023.</li>
-</ul>
-<h3>Otra Formación en la que participo</h3>
-<p>Actualmente imparto diversas formaciones complementarias o de especialización. También, he impartido bastante a lo largo de mi carrera. Resaltaré aquí las realizadas en el último año.</p>
-<ul>
-<li><a href="https://www.jetbrains.com/es-es/academy/" target="_blank" rel="noopener noreferrer">JetBrains Academy</a>. Responsable de contenidos y revisión del track de Kotlin. Docente y preparador de diferentes temas y ejercicios prácticos para el aprendizaje de Kotlin.</li>
-</ul>
-<h2>Docencia oficial anterior</h2>
-<p>A continuación resumiré docencia/formación realizada en anteriores años:</p>
-<ul>
-<li><a href="https://cifpvirgendegracia.com/" target="_blank" rel="noopener noreferrer">CIFP Virgen de Gracia</a>, Puertollano (Ciudad Real). Profesor de Secundaria. 2016/2018 y 2019/2021. Siendo jefe de departamento y coordinando distintos proyectos de innovación.
-<ul>
-<li>Programación Multimedia y Dispositivos Móviles. 2.º DAM.</li>
-<li>Despliegue de Aplicaciones Web. 2.º DAW.</li>
-<li>Lenguajes de marcas y sistemas de gestión de información. 1.º ASIR.</li>
-<li>Programación. 1.º DAM.</li>
-<li>Entornos de Desarrollo de 1.º DAM.</li>
-<li>Servicios de Red e Internet 2.º SMR.</li>
-<li>Implantación de Aplicaciones Web. 2.º ASIR.</li>
-<li>Proyectos de 2.º DAM.</li>
-<li>Formación en Centro de Trabajo de 2.º DAM.</li>
-<li>FP DUAL de 2.º DAM.</li>
-</ul>
-</li>
-</ul>
-<p></p>
-<ul>
-<li><a href="https://www.iestrassierra.com/" target="_blank" rel="noopener noreferrer">IES Trassierra</a>, Córdoba. Profesor de Secundaria. 2018/2019.
-<ul>
-<li>Programación de Servicios y Procesos. 2.º DAM.</li>
-<li>Sistemas de Gestión Empresarial. 2.º DAM.</li>
-<li>Desarrollo Web en Entorno Servidor. 2.º DAW.</li>
-<li>Tecnología de la Información y de la Comunicación. 2.º Bach.</li>
-</ul>
-</li>
-</ul>
-<p></p>
-<ul>
-<li><a href="http://ies-estadosdelduque.centros.castillalamancha.es/" target="_blank" rel="noopener noreferrer">IES Estados del Duque</a>, Malagón (Ciudad Real). Profesor de Secundaria. 2015/2016.
-<ul>
-<li>Sistemas Operativos Monopuesto. 1.º SMR.</li>
-<li>Operaciones auxiliares para la configuración y la explotación. 1.º FPB.</li>
-<li>Tecnología de la Información y de la Comunicación. 1.º Bach.</li>
-<li>Informática. 4.º ESO.</li>
-</ul>
-</li>
-</ul>
-<p></p>
-<ul>
-<li><a href="https://escav.es/" target="_blank" rel="noopener noreferrer">Escuela Superior de Comunicación Audiovisual, ESCAV</a>, Granada. Profesor de Secundaria. 2013 a 2015. En la titulación de <a href="https://escav.es/estudios/animaciones-3d-juegos-y-entornos-interactivos/" target="_blank" rel="noopener noreferrer">Técnico Superior en Animaciones 3D, Juegos y Entornos Interactivos</a>.
-<ul>
-<li>Proyecto de juegos y entornos interactivos. 2.º Curso.</li>
-<li>Desarrollo de entornos interactivos multidispositivo. 2.º Curso.</li>
-<li>Realización de proyectos multimedia interactivos. 1.º Curso.</li>
-</ul>
-</li>
-</ul>
-<p></p>
-<ul>
-<li>Jugabilidad y Diseño de Experiencias Interactivas. Máster interuniversitario en Creación de Videojuegos de 2009 a 2012. Universidad de La Laguna, Tenerife.</li>
-</ul>
-<p></p>
-<ul>
-<li>Jugabilidad y Experiencia del Jugador. <a href="https://www.uclm.es/conocimiento/cursos/cursoexpertodesarrollovideojuegos" target="_blank" rel="noopener noreferrer">Experto en desarrollo de Videojuegos</a>. Universidad de Castilla-La Mancha, 2011/2012.</li>
-</ul>
-<p></p>
-<ul>
-<li>Usabilidad en Videojuegos. Máster en Gestión de Contenidos Digitales, Universitat de Barcelona. 2008.</li>
-</ul>
-<p></p>
-<ul>
-<li><a href="http://www.udl.es/ca/es/" target="_blank" rel="noopener noreferrer">Universitat de Lleida</a>, Lleida. Profesor Doctor. 2010 a 2012.
-<ul>
-<li>Fundamentos de Accesibilidad I. Máster Interacción Persona-Ordenador.</li>
-<li>Especialización en Accesibilidad. Máster Interacción Persona-Ordenador.</li>
-<li>Iniciación a la Ingeniería del Software. Grado en Informática.</li>
-<li>Iniciación a la Interacción Persona-Ordenador. Grado en Informática.</li>
-<li>Interacción Persona-Ordenador. Grado en Informática.</li>
-<li>Programación II. Grado en Informática.</li>
-</ul>
-</li>
-</ul>
-<p></p>
-<ul>
-<li><a href="http://www.ugr.es" target="_blank" rel="noopener noreferrer">Universidad de Granada</a>, Granada. Profesor. 2007 a 2009.
-<ul>
-<li>Ingeniería del Software I. Ingeniería en Informática.</li>
-<li>Ingeniería del Software II. Ingeniería en Informática.</li>
-<li>Programación Dirigida a Objetos. Ingeniería Informática.</li>
-<li>Diseño de Interfaces de Usuario. Ingeniería Técnica en Informática de Gestión.</li>
-<li>Ingeniería del Software II. Ingeniería Técnica en Informática de Gestión.</li>
-</ul>
-</li>
-</ul>
-]]></content:encoded>
-      <enclosure url="https://i.imgur.com/hMmaSY2.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Info</title>
-      <link>https://joseluisgs.dev/info/</link>
-      <guid>https://joseluisgs.dev/info/</guid>
-      <source url="https://joseluisgs.dev/rss.xml">Info</source>
-    </item>
-    <item>
-      <title>2022</title>
-      <link>https://joseluisgs.dev/posts/2022/</link>
-      <guid>https://joseluisgs.dev/posts/2022/</guid>
-      <source url="https://joseluisgs.dev/rss.xml">2022</source>
-    </item>
-    <item>
-      <title>Posts</title>
-      <link>https://joseluisgs.dev/posts/</link>
-      <guid>https://joseluisgs.dev/posts/</guid>
-      <source url="https://joseluisgs.dev/rss.xml">Posts</source>
-    </item>
-    <item>
-      <title>2021</title>
-      <link>https://joseluisgs.dev/posts/2021/</link>
-      <guid>https://joseluisgs.dev/posts/2021/</guid>
-      <source url="https://joseluisgs.dev/rss.xml">2021</source>
-    </item>
-    <item>
-      <title>2023</title>
-      <link>https://joseluisgs.dev/posts/2023/</link>
-      <guid>https://joseluisgs.dev/posts/2023/</guid>
-      <source url="https://joseluisgs.dev/rss.xml">2023</source>
-    </item>
-    <item>
-      <title>2024</title>
-      <link>https://joseluisgs.dev/posts/2024/</link>
-      <guid>https://joseluisgs.dev/posts/2024/</guid>
-      <source url="https://joseluisgs.dev/rss.xml">2024</source>
-    </item>
-    <item>
-      <title>2025</title>
-      <link>https://joseluisgs.dev/posts/2025/</link>
-      <guid>https://joseluisgs.dev/posts/2025/</guid>
-      <source url="https://joseluisgs.dev/rss.xml">2025</source>
-    </item>
-    <item>
-      <title>2026</title>
-      <link>https://joseluisgs.dev/posts/2026/</link>
-      <guid>https://joseluisgs.dev/posts/2026/</guid>
-      <source url="https://joseluisgs.dev/rss.xml">2026</source>
-    </item>
-    <item>
-      <title>Categoría</title>
-      <link>https://joseluisgs.dev/category/</link>
-      <guid>https://joseluisgs.dev/category/</guid>
-      <source url="https://joseluisgs.dev/rss.xml">Categoría</source>
-    </item>
-    <item>
-      <title>Personal Categoría</title>
-      <link>https://joseluisgs.dev/category/personal/</link>
-      <guid>https://joseluisgs.dev/category/personal/</guid>
-      <source url="https://joseluisgs.dev/rss.xml">Personal Categoría</source>
-    </item>
-    <item>
-      <title>Blog Categoría</title>
-      <link>https://joseluisgs.dev/category/blog/</link>
-      <guid>https://joseluisgs.dev/category/blog/</guid>
-      <source url="https://joseluisgs.dev/rss.xml">Blog Categoría</source>
-    </item>
-    <item>
-      <title>Docencia Categoría</title>
-      <link>https://joseluisgs.dev/category/docencia/</link>
-      <guid>https://joseluisgs.dev/category/docencia/</guid>
-      <source url="https://joseluisgs.dev/rss.xml">Docencia Categoría</source>
-    </item>
-    <item>
-      <title>Proyectos Categoría</title>
-      <link>https://joseluisgs.dev/category/proyectos/</link>
-      <guid>https://joseluisgs.dev/category/proyectos/</guid>
-      <source url="https://joseluisgs.dev/rss.xml">Proyectos Categoría</source>
-    </item>
-    <item>
-      <title>Investigacion Categoría</title>
-      <link>https://joseluisgs.dev/category/investigacion/</link>
-      <guid>https://joseluisgs.dev/category/investigacion/</guid>
-      <source url="https://joseluisgs.dev/rss.xml">Investigacion Categoría</source>
-    </item>
-    <item>
-      <title>Etiquetas</title>
-      <link>https://joseluisgs.dev/tag/</link>
-      <guid>https://joseluisgs.dev/tag/</guid>
-      <source url="https://joseluisgs.dev/rss.xml">Etiquetas</source>
-    </item>
-    <item>
-      <title>Etiquetas: Personal</title>
-      <link>https://joseluisgs.dev/tag/personal/</link>
-      <guid>https://joseluisgs.dev/tag/personal/</guid>
-      <source url="https://joseluisgs.dev/rss.xml">Etiquetas: Personal</source>
-    </item>
-    <item>
-      <title>Etiquetas: Docencia</title>
-      <link>https://joseluisgs.dev/tag/docencia/</link>
-      <guid>https://joseluisgs.dev/tag/docencia/</guid>
-      <source url="https://joseluisgs.dev/rss.xml">Etiquetas: Docencia</source>
-    </item>
-    <item>
-      <title>Etiquetas: Proyectos</title>
-      <link>https://joseluisgs.dev/tag/proyectos/</link>
-      <guid>https://joseluisgs.dev/tag/proyectos/</guid>
-      <source url="https://joseluisgs.dev/rss.xml">Etiquetas: Proyectos</source>
-    </item>
-    <item>
-      <title>Etiquetas: Kotlin</title>
-      <link>https://joseluisgs.dev/tag/kotlin/</link>
-      <guid>https://joseluisgs.dev/tag/kotlin/</guid>
-      <source url="https://joseluisgs.dev/rss.xml">Etiquetas: Kotlin</source>
-    </item>
-    <item>
-      <title>Etiquetas: IES Luis Vives</title>
-      <link>https://joseluisgs.dev/tag/ies-luis-vives/</link>
-      <guid>https://joseluisgs.dev/tag/ies-luis-vives/</guid>
-      <source url="https://joseluisgs.dev/rss.xml">Etiquetas: IES Luis Vives</source>
-    </item>
-    <item>
-      <title>Etiquetas: Corrutinas</title>
-      <link>https://joseluisgs.dev/tag/corrutinas/</link>
-      <guid>https://joseluisgs.dev/tag/corrutinas/</guid>
-      <source url="https://joseluisgs.dev/rss.xml">Etiquetas: Corrutinas</source>
-    </item>
-    <item>
-      <title>Etiquetas: Programacion-Reactiva</title>
-      <link>https://joseluisgs.dev/tag/programacion-reactiva/</link>
-      <guid>https://joseluisgs.dev/tag/programacion-reactiva/</guid>
-      <source url="https://joseluisgs.dev/rss.xml">Etiquetas: Programacion-Reactiva</source>
-    </item>
-    <item>
-      <title>Etiquetas: Etica</title>
-      <link>https://joseluisgs.dev/tag/etica/</link>
-      <guid>https://joseluisgs.dev/tag/etica/</guid>
-      <source url="https://joseluisgs.dev/rss.xml">Etiquetas: Etica</source>
-    </item>
-    <item>
-      <title>Etiquetas: Vue.js</title>
-      <link>https://joseluisgs.dev/tag/vue.js/</link>
-      <guid>https://joseluisgs.dev/tag/vue.js/</guid>
-      <source url="https://joseluisgs.dev/rss.xml">Etiquetas: Vue.js</source>
-    </item>
-    <item>
-      <title>Etiquetas: VuePress</title>
-      <link>https://joseluisgs.dev/tag/vuepress/</link>
-      <guid>https://joseluisgs.dev/tag/vuepress/</guid>
-      <source url="https://joseluisgs.dev/rss.xml">Etiquetas: VuePress</source>
-    </item>
-    <item>
-      <title>Etiquetas: Profesional</title>
-      <link>https://joseluisgs.dev/tag/profesional/</link>
-      <guid>https://joseluisgs.dev/tag/profesional/</guid>
-      <source url="https://joseluisgs.dev/rss.xml">Etiquetas: Profesional</source>
-    </item>
-    <item>
-      <title>Etiquetas: Competencias</title>
-      <link>https://joseluisgs.dev/tag/competencias/</link>
-      <guid>https://joseluisgs.dev/tag/competencias/</guid>
-      <source url="https://joseluisgs.dev/rss.xml">Etiquetas: Competencias</source>
     </item>
   </channel>
 </rss>
