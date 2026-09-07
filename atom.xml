@@ -3,7 +3,7 @@
   <id>https://joseluisgs.dev/</id>
   <title>José Luis González</title>
   <subtitle>Web personal de José Luis González Sánchez - Profesor de Desarrollo de Software en Ciclos Formativos de FP y Universidad</subtitle>
-  <updated>2026-09-07T09:55:16.117Z</updated>
+  <updated>2026-09-07T10:01:24.370Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://joseluisgs.dev/atom.xml"/>
   <link rel="alternate" href="https://joseluisgs.dev/"/>
@@ -19,7 +19,7 @@
     <title type="text">Curso nuevo, nuevas aventuras</title>
     <id>https://joseluisgs.dev/posts/2026/2026-09-07-curso-nuevas-aventuras.html</id>
     <link href="https://joseluisgs.dev/posts/2026/2026-09-07-curso-nuevas-aventuras.html"/>
-    <updated>2026-09-04T08:06:00.000Z</updated>
+    <updated>2026-09-07T10:00:46.000Z</updated>
     <summary type="html"><![CDATA[<p>Septiembre. El verano se fue, el calor todavía no, pero el instituto ya ha puesto el calendario en el tablón y aquí estamos, preparando las clases como cada año. Pero este curso viene distinto. Y no porque haya cambiado el ratón (que sigo con el mismo de siempre), sino porque hay <strong>nuevos retos que me hacen mucha ilusión</strong> y mi &quot;compi positivo&quot; siempre está ahí para ayudarme a dar lo mejor de mi.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>Septiembre. El verano se fue, el calor todavía no, pero el instituto ya ha puesto el calendario en el tablón y aquí estamos, preparando las clases como cada año. Pero este curso viene distinto. Y no porque haya cambiado el ratón (que sigo con el mismo de siempre), sino porque hay <strong>nuevos retos que me hacen mucha ilusión</strong> y mi &quot;compi positivo&quot; siempre está ahí para ayudarme a dar lo mejor de mi.</p>
@@ -54,6 +54,10 @@
 <h3>La FFE por fin en su sitio</h3>
 <p>Y por fin, una buena noticia legislativa. Gracias a la resolución de la Dirección General de Educación Secundaria, Formación Profesional y Régimen Especial, por la que se determinan los ciclos formativos de formación profesional en los que la fase de formación en empresa u organismo equiparado puede organizarse en un único periodo, los alumnos de primero de DAW <strong>ya no tendrán que hacer la fase de formación en empresas en primer curso</strong>.</p>
 <p>Esto es algo que veníamos pidiendo desde hace años. La FFE en primero era un desastre: los alumnos llegaban sin bases, las empresas no sabían qué hacer con ellos, y el resultado era una experiencia que no aportaba nada. Ahora, aprovechando esas horas en segundo, con un total de 500 horas, los alumnos llegarán <strong>más maduros, con más conocimientos y con la capacidad de profundizar en un nicho tecnológico y conceptual del desarrollo</strong> que en primero era simplemente imposible.</p>
+<div class="hint-container tip">
+<p class="hint-container-title">Segundo DAW 2025-2026</p>
+<p>No os preocupéis, el espíritu del &quot;compi positivo&quot; sigue ahí. Es un homenaje a todos vosotros, seguirá presente para que vuestros nuevos compañeros/as tengan la mejor motivación posible 🤘.</p>
+</div>
 <h2>Universidad: vuelta a la docencia continua</h2>
 <p>Este año también vuelvo a la <a href="https://www.uc3m.es/" target="_blank" rel="noopener noreferrer">Universidad Carlos III de Madrid</a>. Y no es una colaboración puntual, sino docencia continua en el <strong>Grado de Ingeniería Informática</strong>. Como soy un culo inquieto, mis compis me han liado para sacarme de mi zona de confort y desempolvarme un poco para volver. ¡Ojo! Que yo también me dejo liar. Volver a la universidad es un reto que me hace mucha ilusión, para recordar y volver a experimentar experiencias pasadas que tanto me hicieron disfrutar.</p>
 <h3>Arquitectura de Datos (4º curso)</h3>

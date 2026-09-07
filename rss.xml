@@ -6,8 +6,8 @@
     <link>https://joseluisgs.dev/</link>
     <description>Web personal de José Luis González Sánchez - Profesor de Desarrollo de Software en Ciclos Formativos de FP y Universidad</description>
     <language>es-ES</language>
-    <pubDate>Mon, 07 Sep 2026 09:55:16 GMT</pubDate>
-    <lastBuildDate>Mon, 07 Sep 2026 09:55:16 GMT</lastBuildDate>
+    <pubDate>Mon, 07 Sep 2026 10:01:24 GMT</pubDate>
+    <lastBuildDate>Mon, 07 Sep 2026 10:01:24 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Blog</category>
@@ -56,6 +56,10 @@
 <h3>La FFE por fin en su sitio</h3>
 <p>Y por fin, una buena noticia legislativa. Gracias a la resolución de la Dirección General de Educación Secundaria, Formación Profesional y Régimen Especial, por la que se determinan los ciclos formativos de formación profesional en los que la fase de formación en empresa u organismo equiparado puede organizarse en un único periodo, los alumnos de primero de DAW <strong>ya no tendrán que hacer la fase de formación en empresas en primer curso</strong>.</p>
 <p>Esto es algo que veníamos pidiendo desde hace años. La FFE en primero era un desastre: los alumnos llegaban sin bases, las empresas no sabían qué hacer con ellos, y el resultado era una experiencia que no aportaba nada. Ahora, aprovechando esas horas en segundo, con un total de 500 horas, los alumnos llegarán <strong>más maduros, con más conocimientos y con la capacidad de profundizar en un nicho tecnológico y conceptual del desarrollo</strong> que en primero era simplemente imposible.</p>
+<div class="hint-container tip">
+<p class="hint-container-title">Segundo DAW 2025-2026</p>
+<p>No os preocupéis, el espíritu del &quot;compi positivo&quot; sigue ahí. Es un homenaje a todos vosotros, seguirá presente para que vuestros nuevos compañeros/as tengan la mejor motivación posible 🤘.</p>
+</div>
 <h2>Universidad: vuelta a la docencia continua</h2>
 <p>Este año también vuelvo a la <a href="https://www.uc3m.es/" target="_blank" rel="noopener noreferrer">Universidad Carlos III de Madrid</a>. Y no es una colaboración puntual, sino docencia continua en el <strong>Grado de Ingeniería Informática</strong>. Como soy un culo inquieto, mis compis me han liado para sacarme de mi zona de confort y desempolvarme un poco para volver. ¡Ojo! Que yo también me dejo liar. Volver a la universidad es un reto que me hace mucha ilusión, para recordar y volver a experimentar experiencias pasadas que tanto me hicieron disfrutar.</p>
 <h3>Arquitectura de Datos (4º curso)</h3>
