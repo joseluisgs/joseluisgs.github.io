@@ -3,7 +3,7 @@
   <id>https://joseluisgs.dev/</id>
   <title>José Luis González</title>
   <subtitle>Web personal de José Luis González Sánchez - Profesor de Desarrollo de Software en Ciclos Formativos de FP y Universidad</subtitle>
-  <updated>2026-09-30T18:25:48.652Z</updated>
+  <updated>2026-09-30T20:06:29.213Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://joseluisgs.dev/atom.xml"/>
   <link rel="alternate" href="https://joseluisgs.dev/"/>
@@ -19,7 +19,7 @@
     <title type="text">CQRS: ¿mito, moda o realidad?</title>
     <id>https://joseluisgs.dev/posts/2026/2026-09-30-cqrs-mito-moda-realidad.html</id>
     <link href="https://joseluisgs.dev/posts/2026/2026-09-30-cqrs-mito-moda-realidad.html"/>
-    <updated>2026-09-30T18:24:36.000Z</updated>
+    <updated>2026-09-30T20:05:43.000Z</updated>
     <summary type="html"><![CDATA[<p>«¿CQRS necesita dos bases de datos?». «Nosotros no podemos usar CQRS, que eso es para microservicios». «Yo ya hago CQRS, porque uso MediatR». Tres frases que he escuchado esta última temporada en clase, en entrevistas de prácticas y hasta en hilos de Twitter/X. Y las tres son falsas.</p>
 <p>Y ahí está lo curioso: <strong>CQRS es uno de los patrones más sencillos que existen</strong>, pero lo hemos convertido en un monstruo de siete cabezas. Su nombre ni siquiera menciona bases de datos, ni colas, ni eventos, ni microservicios. Y aun así, ahí va todo el mundo con un arsenal de Kafka y dos clústeres de MongoDB montados para «hacer CQRS» en una API con 40 usuarios.</p>
 <p>Hoy quiero separar lo que es CQRS de lo que no lo es. ¿Es un mito? ¿Es una moda pasajera? ¿O es una realidad que ya tienes en tu código sin saberlo?</p>
