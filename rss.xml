@@ -6,8 +6,8 @@
     <link>https://joseluisgs.dev/</link>
     <description>Web personal de José Luis González Sánchez - Profesor de Desarrollo de Software en Ciclos Formativos de FP y Universidad</description>
     <language>es-ES</language>
-    <pubDate>Mon, 07 Sep 2026 10:01:24 GMT</pubDate>
-    <lastBuildDate>Mon, 07 Sep 2026 10:01:24 GMT</lastBuildDate>
+    <pubDate>Wed, 30 Sep 2026 18:25:48 GMT</pubDate>
+    <lastBuildDate>Wed, 30 Sep 2026 18:25:48 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Blog</category>
@@ -15,6 +15,26 @@
     <category>Personal</category>
     <category>Proyectos</category>
     <category>Investigacion</category>
+    <item>
+      <title>CQRS: ¿mito, moda o realidad?</title>
+      <link>https://joseluisgs.dev/posts/2026/2026-09-30-cqrs-mito-moda-realidad.html</link>
+      <guid>https://joseluisgs.dev/posts/2026/2026-09-30-cqrs-mito-moda-realidad.html</guid>
+      <source url="https://joseluisgs.dev/rss.xml">CQRS: ¿mito, moda o realidad?</source>
+      <description>Qué es CQRS de verdad, por qué se le atribuyen dos bases de datos que nunca pidió, cuándo compensa desnormalizar las lecturas y cuándo es solo sobreingeniería.</description>
+      <category>Blog</category>
+      <category>Docencia</category>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>«¿CQRS necesita dos bases de datos?». «Nosotros no podemos usar CQRS, que eso es para microservicios». «Yo ya hago CQRS, porque uso MediatR». Tres frases que he escuchado esta última temporada en clase, en entrevistas de prácticas y hasta en hilos de Twitter/X. Y las tres son falsas.</p>
+<p>Y ahí está lo curioso: <strong>CQRS es uno de los patrones más sencillos que existen</strong>, pero lo hemos convertido en un monstruo de siete cabezas. Su nombre ni siquiera menciona bases de datos, ni colas, ni eventos, ni microservicios. Y aun así, ahí va todo el mundo con un arsenal de Kafka y dos clústeres de MongoDB montados para «hacer CQRS» en una API con 40 usuarios.</p>
+<p>Hoy quiero separar lo que es CQRS de lo que no lo es. ¿Es un mito? ¿Es una moda pasajera? ¿O es una realidad que ya tienes en tu código sin saberlo?</p>
+<!-- more -->
+<h2>El mito: las cuatro mentiras que circulan sobre CQRS</h2>
+<p>Antes de defender el patrón, hay que desmontar lo que se cuenta sobre él. Porque gran parte de la mala fama de CQRS no viene del patrón: viene de una conversación de WhatsApp desviada mil veces.</p>
+<p>| Lo que la gente dice | Lo que dice el patrón |
+|</p>
+]]></content:encoded>
+      <enclosure url="https://i.imgur.com/6wUrk7u.jpg" type="image/jpeg"/>
+    </item>
     <item>
       <title>Curso nuevo, nuevas aventuras</title>
       <link>https://joseluisgs.dev/posts/2026/2026-09-07-curso-nuevas-aventuras.html</link>
