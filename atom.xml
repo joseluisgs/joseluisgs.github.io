@@ -3,7 +3,7 @@
   <id>https://joseluisgs.dev/</id>
   <title>José Luis González</title>
   <subtitle>Web personal de José Luis González Sánchez - Profesor de Desarrollo de Software en Ciclos Formativos de FP y Universidad</subtitle>
-  <updated>2026-10-03T12:26:12.024Z</updated>
+  <updated>2026-10-28T18:21:00.355Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://joseluisgs.dev/atom.xml"/>
   <link rel="alternate" href="https://joseluisgs.dev/"/>
@@ -15,6 +15,30 @@
   <contributor>
     <name>José Luis González Sánchez</name>
   </contributor>
+  <entry>
+    <title type="text">MongoDB: La base de datos sin esquema fijo, donde viven tus documentos</title>
+    <id>https://joseluisgs.dev/posts/2026/2026-10-28-mongodb-sin-esquema-fijo.html</id>
+    <link href="https://joseluisgs.dev/posts/2026/2026-10-28-mongodb-sin-esquema-fijo.html"/>
+    <updated>2026-10-28T18:20:17.000Z</updated>
+    <summary type="html"><![CDATA[<p>No sé cuándo fue la última vez que añadiste una columna a una tabla, pero me apuesto a que te acuerdas de lo que cuesta: <code>ALTER TABLE</code>, un café mientras corre el proceso y una oración al dios de las copias de seguridad. Y eso solo con la tabla vacía; con doscientos millones de filas, te llevas la tarde entera.</p>
+<p>Hay un patrón que se repite en casi todos los modelos de datos que he mirado: el primer esquema se dibuja el primer día, en un diagrama entidad-relación, con las tablas escritas en piedra que pensamos que nunca van a cambiar. Luego los datos crecen, las necesidades cambian, y el esquema sigue ahí, fingiendo que el mundo no se mueve.</p>
+<p>Hay bases de datos que no te condenan a vivir con esa decisión de por vida. Y una de ellas nació, literalmente, para guardar JSON. Ahí es donde entra MongoDB.</p>
+]]></summary>
+    <content type="html"><![CDATA[<p>No sé cuándo fue la última vez que añadiste una columna a una tabla, pero me apuesto a que te acuerdas de lo que cuesta: <code>ALTER TABLE</code>, un café mientras corre el proceso y una oración al dios de las copias de seguridad. Y eso solo con la tabla vacía; con doscientos millones de filas, te llevas la tarde entera.</p>
+<p>Hay un patrón que se repite en casi todos los modelos de datos que he mirado: el primer esquema se dibuja el primer día, en un diagrama entidad-relación, con las tablas escritas en piedra que pensamos que nunca van a cambiar. Luego los datos crecen, las necesidades cambian, y el esquema sigue ahí, fingiendo que el mundo no se mueve.</p>
+<p>Hay bases de datos que no te condenan a vivir con esa decisión de por vida. Y una de ellas nació, literalmente, para guardar JSON. Ahí es donde entra MongoDB.</p>
+<!-- more -->
+<h2>¿Qué es MongoDB?</h2>
+<p>MongoDB guarda <strong>documentos</strong>. No filas con columnas fijas: documentos. Cada documento es un objeto con sus campos, sus listas y hasta otros documentos dentro, y dos documentos de la misma colección no tienen por qué tener exactamente la misma forma.</p>
+<p>Y el nombre viene de <em>huMONGOus</em> —«base de datos enorme»—. Lo empezó la empresa 10gen con una idea muy simple: guardar los datos sin definir antes su forma.</p>
+<p>Eso suena a herejía si vienes de SQL. Y sin embargo es lo más natural: es el modelo de datos con el que ya piensas en tu código. Tu objeto de producto ya tiene una categoría dentro y una lista de etiquetas. La pregunta es si la base de datos te va a dejar guardarlo así, o si vas a tener que trocearlo en tres tablas y montarlo a mano con <code>JOIN</code>s.</p>
+<p>| SQL (MariaDB) | MongoDB |
+|</p>
+]]></content>
+    <category term="Blog"/>
+    <category term="Docencia"/>
+    <published>2026-10-28T00:00:00.000Z</published>
+  </entry>
   <entry>
     <title type="text">CQRS: ¿mito, moda o realidad?</title>
     <id>https://joseluisgs.dev/posts/2026/2026-09-30-cqrs-mito-moda-realidad.html</id>
