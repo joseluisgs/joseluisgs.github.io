@@ -3,7 +3,7 @@
   <id>https://joseluisgs.dev/</id>
   <title>José Luis González</title>
   <subtitle>Web personal de José Luis González Sánchez - Profesor de Desarrollo de Software en Ciclos Formativos de FP y Universidad</subtitle>
-  <updated>2026-11-04T12:12:41.506Z</updated>
+  <updated>2026-11-11T15:00:03.137Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://joseluisgs.dev/atom.xml"/>
   <link rel="alternate" href="https://joseluisgs.dev/"/>
@@ -15,6 +15,29 @@
   <contributor>
     <name>José Luis González Sánchez</name>
   </contributor>
+  <entry>
+    <title type="text">Cassandra: Primero la consulta, después la tabla</title>
+    <id>https://joseluisgs.dev/posts/2026/2026-11-11-cassandra-primero-la-consulta.html</id>
+    <link href="https://joseluisgs.dev/posts/2026/2026-11-11-cassandra-primero-la-consulta.html"/>
+    <updated>2026-11-11T14:59:23.000Z</updated>
+    <summary type="html"><![CDATA[<p>Todo el mundo te enseñó a modelar igual: miras los datos que guardas, dibujas las entidades, cruzas las líneas en un diagrama entidad-relación y de ahí salen las tablas. Las consultas llegan después, a arreglar lo que falte.</p>
+<p>Hay sistemas donde ese orden se invierte, y no por capricho: la pregunta ya se conoce de antemano. Qué mensajes tiene el canal 42, qué compró el cliente 17, qué vio el usuario ayer. Si sabes exactamente qué te van a preguntar, ¿para qué diseñar para lo impredecible?</p>
+<p>Ahí es donde entra Cassandra.</p>
+]]></summary>
+    <content type="html"><![CDATA[<p>Todo el mundo te enseñó a modelar igual: miras los datos que guardas, dibujas las entidades, cruzas las líneas en un diagrama entidad-relación y de ahí salen las tablas. Las consultas llegan después, a arreglar lo que falte.</p>
+<p>Hay sistemas donde ese orden se invierte, y no por capricho: la pregunta ya se conoce de antemano. Qué mensajes tiene el canal 42, qué compró el cliente 17, qué vio el usuario ayer. Si sabes exactamente qué te van a preguntar, ¿para qué diseñar para lo impredecible?</p>
+<p>Ahí es donde entra Cassandra.</p>
+<!-- more -->
+<h2>¿Qué es Cassandra?</h2>
+<p>Cassandra guarda <strong>filas de columnas ancho</strong> (<em>wide-column</em>): cada fila lleva sus propias columnas —no hace falta que se parezcan a las de la de al lado— y las filas que comparten clave viven juntas en una <strong>partición</strong>. Ojo con la palabra «columnas»: no es la base de datos de columnas analítica de los almacenes de datos (<em>data warehouse</em>), que apilan métricas para sacar promedios; esta es una base de datos de operaciones, que se lee y se escribe fila a fila.</p>
+<p>Dos rasgos la definen desde el primer minuto: <strong>no tiene primario</strong> —cada nodo acepta lecturas y escrituras; no hay un jefe del que dependa todo— y <strong>está distribuida de fábrica</strong>: nacida para vivir en varios centros de datos a la vez, que es lo que Netflix necesita para servir a medio mundo en milisegundos.</p>
+<p>| | SQL (MariaDB) | MongoDB | Cassandra |
+|</p>
+]]></content>
+    <category term="Blog"/>
+    <category term="Docencia"/>
+    <published>2026-11-11T00:00:00.000Z</published>
+  </entry>
   <entry>
     <title type="text">MongoDB: La base de datos sin esquema fijo, donde viven tus documentos</title>
     <id>https://joseluisgs.dev/posts/2026/2026-10-28-mongodb-sin-esquema-fijo.html</id>
