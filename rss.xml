@@ -6,8 +6,8 @@
     <link>https://joseluisgs.dev/</link>
     <description>Web personal de José Luis González Sánchez - Profesor de Desarrollo de Software en Ciclos Formativos de FP y Universidad</description>
     <language>es-ES</language>
-    <pubDate>Wed, 11 Nov 2026 15:00:03 GMT</pubDate>
-    <lastBuildDate>Wed, 11 Nov 2026 15:00:03 GMT</lastBuildDate>
+    <pubDate>Wed, 11 Nov 2026 17:42:47 GMT</pubDate>
+    <lastBuildDate>Wed, 11 Nov 2026 17:42:47 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Blog</category>
@@ -26,7 +26,7 @@
       <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>Todo el mundo te enseñó a modelar igual: miras los datos que guardas, dibujas las entidades, cruzas las líneas en un diagrama entidad-relación y de ahí salen las tablas. Las consultas llegan después, a arreglar lo que falte.</p>
 <p>Hay sistemas donde ese orden se invierte, y no por capricho: la pregunta ya se conoce de antemano. Qué mensajes tiene el canal 42, qué compró el cliente 17, qué vio el usuario ayer. Si sabes exactamente qué te van a preguntar, ¿para qué diseñar para lo impredecible?</p>
-<p>Ahí es donde entra Cassandra.</p>
+<p>Ahí es donde entra Cassandra para ayudarnos.</p>
 <!-- more -->
 <h2>¿Qué es Cassandra?</h2>
 <p>Cassandra guarda <strong>filas de columnas ancho</strong> (<em>wide-column</em>): cada fila lleva sus propias columnas —no hace falta que se parezcan a las de la de al lado— y las filas que comparten clave viven juntas en una <strong>partición</strong>. Ojo con la palabra «columnas»: no es la base de datos de columnas analítica de los almacenes de datos (<em>data warehouse</em>), que apilan métricas para sacar promedios; esta es una base de datos de operaciones, que se lee y se escribe fila a fila.</p>
